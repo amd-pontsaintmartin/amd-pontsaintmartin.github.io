@@ -1,0 +1,7 @@
+main:
+  - title: "Professeurs"
+    url: /professeurs/
+  - title: "Musique"
+    url: /musique/
+  - title: "Danse"
+    url: /danse/
