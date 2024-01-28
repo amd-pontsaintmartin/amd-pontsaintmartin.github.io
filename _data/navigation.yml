@@ -5,3 +5,5 @@ main:
     url: /musique/
   - title: "Danse"
     url: /danse/
+  - title: "Actualités"
+    url: /actualites/
