@@ -32,6 +32,7 @@ locale: "fr-FR"
 collections:
 - professeurs
 include: ["_pages"]
+github: [metadata]
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
