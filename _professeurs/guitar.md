@@ -5,4 +5,3 @@ image: "/assets/images/guitar.jpg"
 ---
 
 BlaBla
-
