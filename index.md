@@ -3,8 +3,17 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-list_title: Actualités
+excerpt: Pont Saint Martin
+title: Association Musique et Danse
 header:
-  image: /assets/images/teaser.jpg
+  overlay_image: /assets/images/header.jpg
+  overlay_filter: 0.5
+  actions:
+    - label: "Musique"
+      url: "/musique/"
+    - label: "Danse"
+      url: "/danse/"
 classes: wide
 ---
+
+Blabla
