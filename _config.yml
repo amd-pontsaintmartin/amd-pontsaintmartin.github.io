@@ -58,7 +58,7 @@ defaults:
       related: true
 
 header: /assets/images/teaser.jpg
-logo: /assets/images/logo.png
+logo: /assets/images/logo-transparent.png
 
 plugins:
   - jekyll-feed
