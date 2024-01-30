@@ -15,6 +15,7 @@ classes: wide
     <td><h2>{{ prof.prenom }} - {{ prof.instrument }}</h2> 
     {{ prof.content }}</td>
     {% else %}
+    {% assign gauche = true %}
     <td><h2>{{ prof.prenom }} - {{ prof.instrument }}</h2> 
     {{ prof.content }}</td>
     <td><img src="{{ prof.image }}" alt="Instrument"></td>
