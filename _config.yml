@@ -27,8 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Danse : ?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  amd-pontsaintmartin
+repository: "amd-pontsaintmartin/amd-pontsaintmartin.github.io"
 locale: fr-FR
 collections:
 - professeurs
@@ -60,6 +59,14 @@ defaults:
 
 header: /assets/images/teaser.jpg
 logo: /assets/images/logo-transparent.png
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/amd-pontsaintmartin"
+    - label: "Musique"
+      icon: "fas fa-envelope-square"
+      url: "mailto://musiquepsm@gmail.com"
 
 plugins:
   - jekyll-feed
