@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/header.jpg
   overlay_filter: 0.5
   actions:
-    - label: "Contactez nous"
+    - label: "Nous contacter"
       url: "mailto://musiquepsm@gmail.com"
 classes: wide
 feature_row:

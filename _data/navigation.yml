@@ -1,9 +1,9 @@
 main:
+  - title: "Actualités"
+    url: /actualites/
   - title: "Professeurs"
     url: /professeurs/
   - title: "Musique"
     url: /musique/
   - title: "Danse"
     url: /danse/
-  - title: "Actualités"
-    url: /actualites/

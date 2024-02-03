@@ -67,6 +67,9 @@ footer:
     - label: "Musique"
       icon: "fas fa-envelope-square"
       url: "mailto://musiquepsm@gmail.com"
+    - label: "Danse"
+      icon: "fas fa-envelope-square"
+      url: "mailto://dansepsm@gmail.com"
 
 plugins:
   - jekyll-feed
