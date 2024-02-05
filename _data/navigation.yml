@@ -1,8 +1,8 @@
 main:
   - title: "Actualités"
     url: /actualites/
-  - title: "Professeurs"
-    url: /professeurs/
+  - title: "L'association"
+    url: /association/
   - title: "Musique"
     url: /musique/
   - title: "Danse"
