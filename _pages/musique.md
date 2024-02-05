@@ -5,7 +5,7 @@ permalink: /musique/
 classes: wide
 ---
 
-# Cours d’instrument
+## Cours d’instrument
 
 A partir du CE1 sans limite d’âge – 30 ou 45 minutes / élève / semaine
 
@@ -23,7 +23,7 @@ Les cours de solfège sont obligatoires jusqu’à la fin du 1er cycle (soit 4 �
 
 Il est nécessaire que l’élève ait son propre instrument pour s’entraîner durant la semaine (à acheter ou en prêt auprès des magasins de musique). Le mieux est de voir avec le professeur concerné.
 
-# Formation Musicale
+## Formation Musicale
 
 A partir du CE1 sans limite d’âge – 1 heure / semaine
 
