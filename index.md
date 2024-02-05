@@ -13,7 +13,7 @@ header:
       url: "mailto://musiquepsm@gmail.com"
 classes: wide
 feature_row:
-  - image_path: /assets/images/header.jpg
+  - image_path: /assets/images/musique.jpg
     title: "Musique"
     excerpt: "Description rapide de la Musique"
     url: "/musique/"
