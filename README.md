@@ -17,12 +17,14 @@ Si vous ne souhaitez pas modifier le code vous même, vous pouvez créer une [is
 
 ## Tester le site chez soi
 
-Après avoir suivi les [instructions d'installation de jekyll](https://jekyllrb.com/docs/installation/), le site peut être lancé avec la commande
+Après avoir suivi les [instructions d'installation de jekyll](https://jekyllrb.com/docs/installation/) et récupéré le code source (par exemple avec un `git clone`), le site peut être affiché dans le navigateur via la commande
 
 ```shell
 bundle exec jekyll serve
 ```
-Un serveur local affiche alors le site à l'adresse http://localhost:4000.
+lancée depuis le dossier contenant le code source.
+
+Le site est alors accessible à l'adresse http://localhost:4000.
 
 
 ## Organistation du code
