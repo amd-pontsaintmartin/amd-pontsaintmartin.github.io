@@ -36,7 +36,7 @@ include: ["_pages"]
 github: [metadata]
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "mint"
 defaults:
   # _pages
@@ -76,7 +76,8 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-sitemap
-  - jekyll-seo-tags
+  - jekyll-seo-tag
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
