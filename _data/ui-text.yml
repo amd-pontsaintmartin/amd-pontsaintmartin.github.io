@@ -28,7 +28,7 @@ fr: &DEFAULT_FR
   powered_by                 : "Propulsé par"
   website_label              : "Site"
   email_label                : "Email"
-  recent_posts               : "Posts récents"
+  recent_posts               : "Dernières nouvelles"
   undefined_wpm              : "Le paramètre words_per_minute n'est pas défini dans _config.yml"
   comment_form_info          : "Votre adresse email ne sera pas visible. Les champs obligatoires sont marqués"
   comment_form_comment_label : "Commentaire"
