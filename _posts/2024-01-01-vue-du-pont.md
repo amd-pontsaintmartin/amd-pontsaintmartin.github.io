@@ -22,4 +22,4 @@ Rendez-vous au printemps pour la suite du programme !
 En attendant, l’association vous présente en musique tous ses vœux de bonheur en ce début d’année 2024 !
 {: .text-justify}
 
-Pour nous joindre [Contact musique](mailto://musiquepsm@gmail.com) 
+Pour nous joindre [Contact musique](mailto://musiquepsm@gmail.com){: .btn .btn--info}
