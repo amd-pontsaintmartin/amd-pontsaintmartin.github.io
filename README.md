@@ -38,7 +38,7 @@ Une actualité correpond à un fichier du dossier [_posts](_posts). Les fichiers
 ### Professeurs
 
 Les présentations des professeurs sont sous la forme de [collections](https://jekyllrb.com/docs/collections/).
-Un fichier doit être créé pour chaque professeur dans le dossier [_professeurs_danse](_professeurs_danse) pour la danse et [_professeurs_musique](_professeurs_musique) pour la musqiue.
+Un fichier doit être créé pour chaque professeur dans le dossier [_professeurs_danse](_professeurs_danse) pour la danse et [_professeurs_musique](_professeurs_musique) pour la musique.
 
 ### Images
 
