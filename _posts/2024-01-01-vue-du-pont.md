@@ -12,12 +12,14 @@ header:
 ![alt](/assets/images/audition_noel_2023/ensemble.jpg)
 
 **Le 08.12.2023 à l’Origami**, c’était jour de fête pour les élèves, petits et grands de l’association Musique et Danse de Pont-Saint-Martin !
+{: .text-justify}
 
 Toutes et tous se sont mobilisés avec le concours des professeurs de musique assistés des bénévoles de l’association pour offrir au public venu nombreux, un spectacle composé de chants et de prestations instrumentales représentant le travail collectif réalisé depuis septembre 2023.
+{: .text-justify}
 
 Rendez-vous au printemps pour la suite du programme !
 
-En attendant, l’association vous présente en musique tous ses vœux de bonheur en ce début d’année
-2024 !
+En attendant, l’association vous présente en musique tous ses vœux de bonheur en ce début d’année 2024 !
+{: .text-justify}
 
 Pour nous joindre [Contact musique](mailto://musiquepsm@gmail.com) 
