@@ -2,7 +2,7 @@
 layout: single
 title: L'association
 permalink: /association/
-classes: wide
+toc: true
 ---
 
 ## blabla
