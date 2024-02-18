@@ -19,6 +19,12 @@ feature_row:
     url: "/musique/"
     btn_label: "En savoir plus"
     btn_class: "btn--inverse"
+  - image_path: /assets/images/logo.png
+    title: "L'association"
+    excerpt: "Description rapide de l'association"
+    url: "/association/"
+    btn_label: "En savoir plus"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/header.jpg
     title: "Danse"
     excerpt: "Description rapide de la Danse"
