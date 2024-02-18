@@ -13,7 +13,7 @@ header:
       url: "mailto://musiquepsm@gmail.com"
 classes: wide
 feature_row:
-  - image_path: /assets/images/musique.jpg
+  - image_path: /assets/images/musique-1.png
     title: "Musique"
     excerpt: "Description rapide de la Musique"
     url: "/musique/"
@@ -25,7 +25,7 @@ feature_row:
     url: "/association/"
     btn_label: "En savoir plus"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/header.jpg
+  - image_path: /assets/images/danse-2.png
     title: "Danse"
     excerpt: "Description rapide de la Danse"
     url: "/danse/"
