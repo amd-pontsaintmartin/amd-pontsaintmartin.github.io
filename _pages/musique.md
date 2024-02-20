@@ -2,7 +2,6 @@
 layout: single
 title: Musique
 permalink: /musique/
-classes: wide
 ---
 
 ## Cours d’instrument

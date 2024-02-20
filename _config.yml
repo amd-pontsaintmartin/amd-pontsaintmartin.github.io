@@ -46,6 +46,8 @@ defaults:
     values:
       layout: single
       author_profile: false
+      toc: true
+      classes: wide_post
   # _posts
   - scope:
       path: ""
@@ -57,6 +59,7 @@ defaults:
       comments: false
       share: true
       related: true
+      classes: wide_post
 
 header: /assets/images/teaser.jpg
 logo: /assets/images/logo-transparent.png
