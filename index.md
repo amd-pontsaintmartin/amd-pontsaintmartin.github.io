@@ -13,15 +13,16 @@ header:
       url: "mailto://musiquepsm@gmail.com"
 classes: wide
 feature_row:
+  - image_path: /assets/images/musiqueetdanse.png
+    title: "L'association"
+    excerpt: "Description rapide de l'association"
+    url: "/association/"
+    btn_label: "En savoir plus"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/musique-1.png
     title: "Musique"
     excerpt: "Description rapide de la Musique"
     url: "/musique/"
-    btn_label: "En savoir plus"
-    btn_class: "btn--inverse"
-  - title: "L'association"
-    excerpt: "Description rapide de l'association"
-    url: "/association/"
     btn_label: "En savoir plus"
     btn_class: "btn--inverse"
   - image_path: /assets/images/danse-2.png
