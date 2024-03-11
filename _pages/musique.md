@@ -6,7 +6,7 @@ permalink: /musique/
 
 ## Cours d’instrument
 
-A partir du CE1 sans limite d’âge – 30 ou 45 minutes / élève / semaine
+A partir de 7 ans et sans limite d’âge – 30 minutes / semaine / élève 
 {: .text-justify}
 
 * Batterie
@@ -17,25 +17,33 @@ A partir du CE1 sans limite d’âge – 30 ou 45 minutes / élève / semaine
 * Trompette
 * Saxophone
 
-Les cours d’instrument peuvent être proposés en cours individuels ou en cours collectifs (2 ou 3 élèves). Dans ce dernier cas, le temps (30 minutes) est multiplié par le nombre de participants (exemple : 1 heure pour 2 élèves au lieu d’une demi-heure pour chaque élève). Cette possibilité de pratique collective est à voir avec les professeurs d’instrument et avec l’accord de l’élève ou de son représentant pour les mineurs. Elle n’est pas toujours possible en fonction des élèves, instruments, contraintes individuelles… Elle peut se faire sur toute l’année ou sur une partie de l’année. La pratique collective est encouragée par l’École.
+Il est nécessaire d'avoir son propre instrument (à acheter ou en prêt auprès des magasins de musique). 
+Les professeurs de musique se tiennent à votre disposition pour tout reseignement.
 {: .text-justify}
 
-Les cours de solfège sont obligatoires jusqu’à la fin du 1er cycle (soit 4 à 5 ans de solfège) pour les jeunes instrumentistes afin de leur permettre d’acquérir ces bases.
+## Formation Musicale élève entre 7 et 15 ans 
+
+Cours de 1 heure / semaine / groupe 
 {: .text-justify}
 
-Il est nécessaire que l’élève ait son propre instrument pour s’entraîner durant la semaine (à acheter ou en prêt auprès des magasins de musique). Le mieux est de voir avec le professeur concerné.
+La formation musicale est dispenssée par Christine Pesci et est obligatoire durant les 4 ou 5 premières années d'aprentisage de la musique. 
 {: .text-justify}
 
-## Formation Musicale
-
-A partir du CE1 sans limite d’âge – 1 heure / semaine
+Elle est indispensable et complémentaire à l’apprentissage d’un instrument. Le but est d’apporter les moyens de progresser avec plus de facilité, de rapidité et d’acquérir une meilleure compréhension de la musique et de son interprétation.
 {: .text-justify}
 
-Par groupe d’environ 8-10 élèves, la formation musicale est donné par niveau et par âge.
+## Formation Musicale élève de + de 15 ans 
+
+Cours de 15 minutes / semaine / élève
+
+La formation musicale est dispenssée par le professeur d'instrument et viendra s'ajouter au 30 minutes de cours d'instrument. 
 {: .text-justify}
 
-Le solfège est indispensable et complémentaire à l’apprentissage d’un instrument qui nécessite un travail de plusieurs années. Le but est d’apporter les moyens de progresser avec plus de facilité, de rapidité et d’acquérir une meilleure compréhension de la musique et de son interprétation.
-{: .text-justify}
+## Découverte instrumentale
 
-Le cours de solfège n’est pas seulement la lecture des notes et d
+![alt](/assets/images/decouverte instru flute.jpg)
+
+## Groupe 
+
+Cours de 1 heure / semaine / groupe 
 {: .text-justify}
