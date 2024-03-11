@@ -45,18 +45,21 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+      toc: true
+      classes: wide_post
   # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
+      author_profile: false
+      read_time: false
+      comments: false
       share: true
       related: true
+      classes: wide_post
 
 header: /assets/images/teaser.jpg
 logo: /assets/images/logo-transparent.png
