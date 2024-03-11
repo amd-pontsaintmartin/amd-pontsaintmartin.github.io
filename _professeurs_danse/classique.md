@@ -1,7 +1,7 @@
 ---
-prenom: JB
-instrument: Batterie
-image: "/assets/images/batterie.jpg"
+prenom: ??
+instrument: Danse
+image: "/assets/images/header.jpg"
 ---
 
 BlaBla
