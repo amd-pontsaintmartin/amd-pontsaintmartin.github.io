@@ -27,13 +27,11 @@ feature_row:
     title: "Musique"
     excerpt: |
       **Découverte instrumentale** \
-      À partir de 6 ans
-      {: .notice--primary}
-
+      À partir de 6 ans \
+       \
       **Formation musicale** \
-      Enfants, adolescent.e.s, adultes
-      {: .notice--warning}
-
+      Enfants, adolescent.e.s, adultes \
+       \
       **Pratique d’instruments** \
       Enfants, adolescent.e.s, adultes \
        \
@@ -43,7 +41,7 @@ feature_row:
       *Saxophone* \
       *Flûte traversière* \
       *Batterie*
-      {: .notice--success}
+      {: .notice--primary}
      
     url: "/musique/"
     btn_label: "En savoir plus"
@@ -52,24 +50,20 @@ feature_row:
     title: "Danse"
     excerpt: |
       **Éveil corporel** \
-      À partir de 5 ans
-      {: .notice--primary}
-   
+      À partir de 5 ans \
+       \
       **Modern’ Jazz** \
-      Enfants, adolescent.e.s, adultes
-      {: .notice--warning}
-  
+      Enfants, adolescent.e.s, adultes \
+       \
       **Hip Hop** \
-      Enfants, adolescent.e.s
-      {: .notice--success}
- 
+      Enfants, adolescent.e.s \
+       \
       **Danses à deux** rock, salsa, bachata… \
-      Adultes
-      {: .notice--primary}
-      
+      Adultes \
+       \
       **Danses en ligne** \
       Adultes
-      {: .notice--warning}
+      {: .notice--primary}
 
     url: "/danse/"
     btn_label: "En savoir plus"
