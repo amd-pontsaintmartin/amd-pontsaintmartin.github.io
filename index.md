@@ -15,10 +15,14 @@ classes: wide
 feature_row:
   - image_path: /assets/images/musiqueetdanse.png
     title: "L'association"
-    excerpt: "Description rapide de l'association"
+    excerpt: |
+      Depuis de très nombreuses année, l’Association Musique et Danse de Pont Saint Martin (loi 1901) propose à destination de tous les publics (enfants, adolescents, adultes) des cours dispensés par des professeurs qualifiés.
+      {: .text-justify} 
+      {: .notice--primary}
+
     url: "/association/"
     btn_label: "En savoir plus"
-    btn_class: "btn--inverse"
+    btn_class: "btn--primary"
   - image_path: /assets/images/musique-1.png
     title: "Musique"
     excerpt: |
@@ -43,7 +47,7 @@ feature_row:
      
     url: "/musique/"
     btn_label: "En savoir plus"
-    btn_class: "btn--inverse"
+    btn_class: "btn--primary"
   - image_path: /assets/images/danse-2.png
     title: "Danse"
     excerpt: |
@@ -69,7 +73,7 @@ feature_row:
 
     url: "/danse/"
     btn_label: "En savoir plus"
-    btn_class: "btn--inverse"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
