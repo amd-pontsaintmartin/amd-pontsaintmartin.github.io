@@ -27,7 +27,27 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/danse-2.png
     title: "Danse"
-    excerpt: "Description rapide de la Danse"
+    excerpt: |
+      **Éveil corporel** \
+      à partir de 5 ans
+      {: .notice--info}
+   
+      **Modern’ Jazz** \
+      enfants, adolescent.e.s, adultes
+      {: .notice--warning}
+  
+      **Hip Hop** \
+      enfants, adolescent.e.s
+      {: .notice--success}
+ 
+      **Danses à deux** rock, salsa, bachata… \
+      adultes
+      {: .notice--danger}
+      
+      **Danses en ligne** \
+      adultes
+      {: .notice--primary}
+
     url: "/danse/"
     btn_label: "En savoir plus"
     btn_class: "btn--inverse"
