@@ -21,7 +21,26 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/musique-1.png
     title: "Musique"
-    excerpt: "Description rapide de la Musique"
+    excerpt: |
+      **Découverte instrumentale** \
+      À partir de 6 ans
+      {: .notice--primary}
+
+      **Formation musicale** \
+      Enfants, adolescent.e.s, adultes
+      {: .notice--warning}
+
+      **Pratique d’instruments** \
+      Enfants, adolescent.e.s, adultes \
+       \
+      *Piano* \
+      *Guitare classique/électrique* \
+      *Trompette* \
+      *Saxophone* \
+      *Flûte traversière* \
+      *Batterie*
+      {: .notice--success}
+     
     url: "/musique/"
     btn_label: "En savoir plus"
     btn_class: "btn--inverse"
@@ -29,24 +48,24 @@ feature_row:
     title: "Danse"
     excerpt: |
       **Éveil corporel** \
-      à partir de 5 ans
-      {: .notice--info}
+      À partir de 5 ans
+      {: .notice--primary}
    
       **Modern’ Jazz** \
-      enfants, adolescent.e.s, adultes
+      Enfants, adolescent.e.s, adultes
       {: .notice--warning}
   
       **Hip Hop** \
-      enfants, adolescent.e.s
+      Enfants, adolescent.e.s
       {: .notice--success}
  
       **Danses à deux** rock, salsa, bachata… \
-      adultes
-      {: .notice--danger}
+      Adultes
+      {: .notice--primary}
       
       **Danses en ligne** \
-      adultes
-      {: .notice--primary}
+      Adultes
+      {: .notice--warning}
 
     url: "/danse/"
     btn_label: "En savoir plus"
