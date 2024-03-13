@@ -5,9 +5,12 @@ permalink: /association/
 toc: true
 ---
 
-## blabla
-
-blabla
+Gérée par une équipe de bénévoles dynamiques, investis et avec l’appui de la municipalité de Pont Saint Martin, l’association a à cœur de :
+- Mettre la musique et la danse à la portée de tous,
+- Promouvoir un enseignement de qualité, adapté à un public amateur, par des professionnels compétents sur le plan technique et pédagogique,
+- Contribuer à une meilleure qualité de vie et à l’épanouissement individuel des adhérents,
+- Participer à l’animation culturelle de la commune.
+{: .text-justify}
 
 ## Nos professeurs
 
