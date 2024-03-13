@@ -7,7 +7,7 @@ permalink: /musique/
 ## Cours d’instrument
 
 A partir de 7 ans et sans limite d’âge – 30 minutes / semaine / élève 
-{: .notice}
+{: .notice--primary}
 
 * Batterie
 * Flûte traversière
@@ -24,7 +24,7 @@ Les professeurs de musique se tiennent à votre disposition pour tout renseignem
 ## Formation Musicale élève entre 7 et 15 ans 
 
 Cours de 1 heure / semaine / groupe 
-{: .notice}
+{: .notice--primary}
 
 La formation musicale est dispensée par Christine Pesci et est obligatoire durant les 4 ou 5 premières années d'apprentissage de la musique. 
 {: .text-justify}
@@ -36,7 +36,7 @@ Le but est d’apporter les moyens de progresser avec plus de facilité, de rapi
 ## Formation Musicale élève de + de 15 ans 
 
 Cours de 15 minutes / semaine / élève
-{: .notice}
+{: .notice--primary}
 
 La formation musicale est dispensée par le professeur d'instrument et viendra s'ajouter au 30 minutes de cours d'instrument. 
 {: .text-justify}
@@ -48,4 +48,4 @@ La formation musicale est dispensée par le professeur d'instrument et viendra s
 ## Groupe 
 
 Cours de 1 heure / semaine / groupe 
-{: .notice}
+{: .notice--primary}
