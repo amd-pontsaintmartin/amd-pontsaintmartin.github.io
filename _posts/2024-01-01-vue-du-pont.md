@@ -7,6 +7,7 @@ excerpt: Nouvel article dans le magazine de la ville de Pont Saint Martin.
 header:
   overlay_filter: 0.5
   overlay_image: /assets/images/audition_noel_2023/ensemble.jpg
+  teaser: /assets/images/audition_noel_2023/ensemble.jpg
 ---
 
 ![alt](/assets/images/audition_noel_2023/ensemble.jpg)

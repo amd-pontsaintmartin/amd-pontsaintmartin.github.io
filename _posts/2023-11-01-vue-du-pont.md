@@ -5,7 +5,7 @@ date:   2023-11-01 18:58:05 +0100
 categories: communication
 excerpt: Nouvel article dans le magazine de la ville de Pont Saint Martin.
 header:
-  image: /assets/images/VueduPont_Novembre-Decembre-2023.png
+  teaser: /assets/images/VueduPont_Novembre-Decembre-2023.png
 ---
 
 ![alt](/assets/images/VueduPont_Novembre-Decembre-2023.png)
