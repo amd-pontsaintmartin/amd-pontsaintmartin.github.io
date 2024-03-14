@@ -12,6 +12,7 @@ header:
     - label: "Nous contacter"
       url: "mailto://musiquepsm@gmail.com"
 classes: wide
+entries_layout: grid
 feature_row:
   - #image_path: /assets/images/musiqueetdanse.png
     title: "L'association"
