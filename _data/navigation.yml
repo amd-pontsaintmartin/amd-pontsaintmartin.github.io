@@ -7,3 +7,17 @@ main:
     url: /musique/
   - title: "Danse"
     url: /danse/
+
+actualites:
+  - title: "Catégories"
+    children:
+    - title: "Toutes"
+      url: /actualites/
+    - title: "Spectacles"
+      url: /actualites-spectacles/
+    - title: "Presse"
+      url: /actualites-presse/
+    - title: "Vie de l'association"
+      url: /actualites-association/
+    - title: "Photos/Vidéos"
+      url: /actualites-media/
