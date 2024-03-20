@@ -1,7 +1,8 @@
 ---
-prenom: ??
+prenom: 
 instrument: Danse
 image: "/assets/images/header.jpg"
 ---
 
-BlaBla
+La partie danse est actuellement en construction.
+{: .notice--warning}
