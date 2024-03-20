@@ -21,20 +21,20 @@ Il est nécessaire d'avoir son propre instrument (à acheter ou en prêt auprès
 Les professeurs de musique se tiennent à votre disposition pour tout renseignement.
 {: .text-justify}
 
-## Formation Musicale élève entre 7 et 15 ans 
+## Formation Musicale 
 
+Elle est indispensable et complémentaire à l’apprentissage d’un instrument.
+Le but est d’apporter les moyens de progresser avec plus de facilité, de rapidité et d’acquérir une meilleure compréhension de la musique et de son interprétation.
+{: .text-justify}
+
+**Élève entre 7 et 15 ans**
 Cours de 1 heure / semaine / groupe 
 {: .notice--primary}
 
 La formation musicale est dispensée par Christine Pesci et est obligatoire durant les 4 ou 5 premières années d'apprentissage de la musique. 
 {: .text-justify}
 
-Elle est indispensable et complémentaire à l’apprentissage d’un instrument.
-Le but est d’apporter les moyens de progresser avec plus de facilité, de rapidité et d’acquérir une meilleure compréhension de la musique et de son interprétation.
-{: .text-justify}
-
-## Formation Musicale élève de + de 15 ans 
-
+**Élève de + de 15 ans**
 Cours de 15 minutes / semaine / élève
 {: .notice--primary}
 
