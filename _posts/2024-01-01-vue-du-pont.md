@@ -2,11 +2,12 @@
 layout: single
 title:  "Vue du Pont - Publication Janvier 2024"
 date:   2024-01-01 18:58:05 +0100
-categories: communication
+categories: Presse
 excerpt: Nouvel article dans le magazine de la ville de Pont Saint Martin.
 header:
   overlay_filter: 0.5
   overlay_image: /assets/images/audition_noel_2023/ensemble.jpg
+  teaser: /assets/images/audition_noel_2023/ensemble.jpg
 ---
 
 ![alt](/assets/images/audition_noel_2023/ensemble.jpg)

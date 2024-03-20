@@ -12,11 +12,12 @@ header:
     - label: "Nous contacter"
       url: "mailto://musiquepsm@gmail.com"
 classes: wide
+entries_layout: grid
 feature_row:
   - #image_path: /assets/images/musiqueetdanse.png
     title: "L'association"
     excerpt: |
-      Depuis de très nombreuses année, l’Association Musique et Danse de Pont Saint Martin (loi 1901) propose à destination de tous les publics (enfants, adolescents, adultes) des cours dispensés par des professeurs qualifiés.
+      Depuis de très nombreuses années, l’Association Musique et Danse de Pont Saint Martin (loi 1901) propose à destination de tous les publics (enfants, adolescents, adultes) des cours dispensés par des professeurs qualifiés.
       {: .text-justify} 
       {: .notice--primary}
 

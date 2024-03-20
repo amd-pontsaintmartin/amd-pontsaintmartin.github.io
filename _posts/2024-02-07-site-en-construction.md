@@ -6,6 +6,7 @@ categories: site
 header:
   overlay_filter: 0.5
   overlay_image: /assets/images/site-web-en-construction.jpg
+  teaser: /assets/images/site-web-en-construction.jpg
 excerpt: Le site de l'Association Musique et Danse est actuellement en construction.
 ---
 

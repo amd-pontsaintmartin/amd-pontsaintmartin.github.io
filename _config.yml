@@ -61,6 +61,7 @@ defaults:
       related: true
       classes: wide_post
 
+search: true
 header: /assets/images/teaser.jpg
 logo: /assets/images/logo-transparent.png
 footer:
