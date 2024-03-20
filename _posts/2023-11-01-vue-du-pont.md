@@ -2,7 +2,7 @@
 layout: single
 title:  "Vue du Pont - Publication Novembre 2023"
 date:   2023-11-01 18:58:05 +0100
-categories: Presse
+categories: Presse Musique Danse
 excerpt: Nouvel article dans le magazine de la ville de Pont Saint Martin.
 header:
   teaser: /assets/images/VueduPont_Novembre-Decembre-2023.png

@@ -1,7 +1,7 @@
 ---
 title: Photos Audition Noël 2023
 layout: single
-categories: Spectacles Media
+categories: Spectacles Media Musique
 excerpt: Les photos de l'audition de Noël sont disponibles !
 header:
   teaser: /assets/images/audition_noel_2023/AMD-Noël23-08.jpg

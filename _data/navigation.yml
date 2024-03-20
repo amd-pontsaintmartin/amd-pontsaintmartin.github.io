@@ -20,4 +20,8 @@ actualites:
     - title: "Vie de l'association"
       url: /actualites-association/
     - title: "Photos/Vidéos"
-      url: /actualites-media/
+      url: /actualites-media/    
+    - title: "Musique"
+      url: /actualites-musique/
+    - title: "Danse"
+      url: /actualites-danse/
