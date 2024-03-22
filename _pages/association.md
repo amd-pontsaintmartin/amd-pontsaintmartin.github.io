@@ -16,42 +16,107 @@ Gérée par une équipe de bénévoles dynamiques, investis et avec l’appui de
 
 ### Musique
 
-<table>
+<style>
+
+.column {
+  float: left;
+}
+
+.row {
+  display: flex;
+  flex-direction: column;
+}
+
+.narrow { order: 1; }
+
+.wide { order: 2; }
+
+@media only screen and (min-width: 600px) {
+  .narrow {
+    display: flex;
+    flex: 0.75;
+    align-items: center;
+    order: 0;
+  }
+
+  .wide {
+    flex: 1;
+    order: 0;
+  }
+
+  .row {
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+img {
+  padding: 5px;
+}
+
+</style>
+
+
 {% assign gauche = true %}
 {% for prof in site.professeurs_musique %}
-  <tr>
-    {% if gauche == true %}
-    {% assign gauche = false %}
-    <td><img src="{{ prof.image }}" alt="Instrument"></td>
-    <td><h2>{{ prof.prenom }} - {{ prof.instrument }}</h2> 
-    {{ prof.content }}</td>
-    {% else %}
-    {% assign gauche = true %}
-    <td><h2>{{ prof.prenom }} - {{ prof.instrument }}</h2> 
-    {{ prof.content }}</td>
-    <td><img src="{{ prof.image }}" alt="Instrument"></td>
-    {% endif %}
-  </tr>
+  
+  {% if gauche == true %}
+  {% assign gauche = false %}
+  <h2 style="text-align: right;">{{ prof.prenom }} - {{ prof.instrument }}</h2> 
+  <div class="row">
+  <div class="column narrow">
+    <img src="{{ prof.image }}" alt="Instrument">
+  </div>
+  <div class="column wide">
+    {{ prof.content }}
+  </div>
+  </div>
+  {% else %}
+  {% assign gauche = true %}
+  <h2>{{ prof.prenom }} - {{ prof.instrument }}</h2> 
+  <div class="row">
+  <div class="column wide">
+    {{ prof.content }}
+  </div>
+  <div class="column narrow">
+    <img src="{{ prof.image }}" alt="Instrument">
+  </div>
+  </div>
+  {% endif %}
 {% endfor %}
-</table>
 
 ### Danse
 
-<table>
 {% assign gauche = true %}
 {% for prof in site.professeurs_danse %}
-  <tr>
-    {% if gauche == true %}
-    {% assign gauche = false %}
-    <td><img src="{{ prof.image }}" alt="Instrument"></td>
-    <td><h2>{{ prof.prenom }} - {{ prof.instrument }}</h2> 
-    {{ prof.content }}</td>
-    {% else %}
-    {% assign gauche = true %}
-    <td><h2>{{ prof.prenom }} - {{ prof.instrument }}</h2> 
-    {{ prof.content }}</td>
-    <td><img src="{{ prof.image }}" alt="Instrument"></td>
-    {% endif %}
-  </tr>
+  
+  {% if gauche == true %}
+  {% assign gauche = false %}
+  <h2 style="text-align: right;">{{ prof.prenom }} - {{ prof.instrument }}</h2> 
+  <div class="row">
+  <div class="column narrow">
+    <img src="{{ prof.image }}" alt="Instrument">
+  </div>
+  <div class="column wide">
+    {{ prof.content }}
+  </div>
+  </div>
+  {% else %}
+  {% assign gauche = true %}
+  <h2>{{ prof.prenom }} - {{ prof.instrument }}</h2> 
+  <div class="row">
+  <div class="column wide">
+    {{ prof.content }}
+  </div>
+  <div class="column narrow">
+    <img src="{{ prof.image }}" alt="Instrument">
+  </div>
+  </div>
+  {% endif %}
 {% endfor %}
-</table>
