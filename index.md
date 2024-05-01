@@ -27,6 +27,21 @@ feature_row:
   - #image_path: /assets/images/musique-1.png
     title: "Musique"
     excerpt: |
+      **Pratique d’instruments** \
+      Enfants, adolescent.e.s, adultes \
+      &emsp;*Piano* \
+      &emsp;*Trompette* \
+      &emsp;*Trombone* \
+      &emsp;*Saxophone* \
+      &emsp;*Flûte traversière* \
+      &emsp;*Batterie* \
+      &emsp;*Guitare classique* \
+      &emsp;*Guitare électrique* \
+      &emsp;*Guitare folk* \
+      &emsp;*Banjo* \
+      &emsp;*Mandoline* \
+      &emsp;*Ukulélé* \
+       \
       **Éveil** \
       À partir de 3 ans \
        \
@@ -37,23 +52,7 @@ feature_row:
       Enfants, adolescent.e.s, adultes \
        \
       **Groupe**\
-      adolescent.e.s, adultes \
-       \
-      **Pratique d’instruments** \
-      Enfants, adolescent.e.s, adultes \
-       \
-      *Piano* \
-      *Trompette* \
-      *Trombone* \
-      *Saxophone* \
-      *Flûte traversière* \
-      *Batterie* \
-      *Guitare classique* \
-      *Guitare électrique* \
-      *Guitare folk* \
-      *Banjo* \
-      *Mandoline* \
-      *Ukulélé* 
+      adolescent.e.s, adultes
       {: .notice--primary}
      
     url: "/musique/"
