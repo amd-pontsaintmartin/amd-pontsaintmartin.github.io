@@ -1,6 +1,6 @@
 ---
 prenom: JB
-instrument: Batterie
+instrument: Batterie/Guitare Électrique/Folk/Banjo/Mandoline/Ukulélé 
 image: "/assets/images/batterie.jpg"
 ---
 
