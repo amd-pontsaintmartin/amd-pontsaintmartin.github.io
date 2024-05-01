@@ -2,7 +2,7 @@
 prenom: Gilles
 instrument: Trompette
 
-image: "/assets/images/trompette.jpg"
+image: "/assets/images/photogilles.jpg"
 ---
 
 Diplômé de l'Ecole Nationale de Cholet et du Conservatoire de Musique Nantes en trompette et formation musicale.
