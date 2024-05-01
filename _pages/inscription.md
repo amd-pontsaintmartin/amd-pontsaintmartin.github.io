@@ -40,7 +40,7 @@ Si votre inscription ne pouvait être validée en raison d'un nombre trop import
 
 [Planning Musique 2023-2024](/assets/documents/Planning Musique 2023-2024.pdf){: .btn .btn--info}
 \
-[Planning Musique 2023-2024 - Découverte Instrumentale](/assets/documents/Planning Musique 2023-2024-Découverte.pdf){: .btn .btn--info}
+[Planning Musique 2023-2024 - Découverte](/assets/documents/Planning Musique 2023-2024-Découverte.pdf){: .btn .btn--info}
 \
 [Plages horaires Musique 2023-2024](/assets/documents/Horaires 2023-2024.pdf){: .btn .btn--info}
 
