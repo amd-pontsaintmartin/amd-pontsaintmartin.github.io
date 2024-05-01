@@ -35,7 +35,7 @@ L'objectif principal de la phase d'éveil est d'affiner les perceptions et de d�
 - Découverte des instruments: sonorité, visuel, familles d'instruments,
 - Développement du sens du rythme,
 - Développement de l'aisance dans le mouvement, de la prise de conscience du corps et de l'espace,
-- Découvrerte du langage musical, de l'écriture musicale, des jeux d'écriture,
+- Découverte du langage musical, de l'écriture musicale, des jeux d'écriture,
 - Découvrerte des émotions à travers la musique,
 - Utilisation de la voix dans la musique avec des chants collectifs.
 {: .text-justify}
@@ -45,7 +45,7 @@ L'objectif principal de la phase d'éveil est d'affiner les perceptions et de d�
 {: .notice--primary}
 ![alt](/assets/images/decouverte instru flute.jpg)
 
-Passerelle entre l’éveil et le cursus instrumental, les élèves pouront découvrir et pratiquer une partie des instruments enseignés à l’association de musique.
+Passerelle entre l’éveil et le cursus instrumental, les élèves pourront découvrir et pratiquer une partie des instruments enseignés à l’association de musique.
 {: .text-justify}
 
 Par trinôme ou binôme, les élèves seront sensibilisés à 5 instruments dans l’année (6 semaines pour chaque instrument, par les différents professeurs concernés) à savoir : **Flûte traversière et à bec, Saxophone, Trompette, Guitare classique, Batterie**
@@ -65,7 +65,7 @@ Elle est destinée à rendre autonome chaque apprenti musicien sur la lecture d�
 La formation musicale est dispensée par Christine Pesci et est obligatoire durant les 4 ou 5 premières années d'apprentissage de la musique. 
 {: .text-justify}
 
-La grande Histoire de la musique à travers la découverte des grandes œuvres du répertoire sera également abordé.
+La grande Histoire de la musique à travers la découverte des grandes œuvres du répertoire sera également abordée.
 Les élèves présentent en fin d’année un exercice qui a été répété tout au long de l’année sous diverses formes ( percussions corporelles, orchestre …).
 {: .text-justify}
 
