@@ -27,21 +27,33 @@ feature_row:
   - #image_path: /assets/images/musique-1.png
     title: "Musique"
     excerpt: |
+      **Éveil** \
+      À partir de 3 ans \
+       \
       **Découverte instrumentale** \
       À partir de 6 ans \
        \
       **Formation musicale** \
       Enfants, adolescent.e.s, adultes \
        \
+      **Groupe**\
+      adolescent.e.s, adultes \
+       \
       **Pratique d’instruments** \
       Enfants, adolescent.e.s, adultes \
        \
       *Piano* \
-      *Guitare classique/électrique* \
       *Trompette* \
+      *Trombone* \
       *Saxophone* \
       *Flûte traversière* \
-      *Batterie*
+      *Batterie* \
+      *Guitare classique* \
+      *Guitare électrique* \
+      *Guitare folk* \
+      *Banjo* \
+      *Mandoline* \
+      *Ukulélé* 
       {: .notice--primary}
      
     url: "/musique/"
