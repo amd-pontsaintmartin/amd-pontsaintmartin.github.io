@@ -35,5 +35,5 @@ Informations à suivre sur notre page Facebook.
  \
  \
 **L'association Musique et Danse a besoin de bénévoles dès la rentrée prochaine !**
-Vous souhaitez vous investir, contactez-nous dès maintenant à : [Contact danse](mailto:dansepsm@gmail.com){: .btn .btn--info} ou [Contact musique](mailto://musiquepsm@gmail.com){: .btn .btn--info} 
+Vous souhaitez vous investir, contactez-nous dès maintenant à : [Contact danse](mailto:dansepsm@gmail.com){: .btn .btn--info} ou [Contact musique](mailto:musiquepsm@gmail.com){: .btn .btn--info} 
 {: .text-justify}

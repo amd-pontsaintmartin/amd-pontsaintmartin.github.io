@@ -23,7 +23,7 @@ email: musiquepsm@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Association Musique et Danse de Pont Saint Martin (à proximité de Nantes, Bouguenais, Rezé, Saint Aignan de Grand Lieu).
   Multiples activités proposées.
-  Musique : solfège, formation musicale, flûte traversière, piano, trompette, saxophone, guitare classique, guitare électrique, batterie
+  Musique : solfège, formation musicale, flûte traversière, piano, trompette, trombonne, saxophone, guitare classique, guitare électrique, batterie
   Danse : ?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amd-pontsaintmartin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -71,10 +71,10 @@ footer:
       url: "https://github.com/amd-pontsaintmartin"
     - label: "Musique"
       icon: "fas fa-envelope-square"
-      url: "mailto://musiquepsm@gmail.com"
+      url: "mailto:musiquepsm@gmail.com"
     - label: "Danse"
       icon: "fas fa-envelope-square"
-      url: "mailto://dansepsm@gmail.com"
+      url: "mailto:dansepsm@gmail.com"
 
 plugins:
   - jekyll-feed

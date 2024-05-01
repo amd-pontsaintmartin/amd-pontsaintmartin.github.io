@@ -49,6 +49,6 @@ que les créneaux disponibles et les modalités… En septembre c’est souvent 
 {: .text-justify}
 
 N’hésitez pas à nous contacter dès la lecture de cet article via notre boite mail
-[Contact musique](mailto://musiquepsm@gmail.com){: .btn .btn--info} nous nous ferons un plaisir de revenir vers vous pour essayer de
+[Contact musique](mailto:musiquepsm@gmail.com){: .btn .btn--info} nous nous ferons un plaisir de revenir vers vous pour essayer de
 satisfaire votre souhait et répondre à vos demandes !
 {: .text-justify}

@@ -21,5 +21,5 @@ Côté musique, 68 élèves suivent les cours individuels de batterie, guitare c
 
 Plus d'information : 
 
-[Contact musique](mailto://musiquepsm@gmail.com){: .btn .btn--info}
-[Contact danse](mailto://dansepsm@gmail.com){: .btn .btn--info}
+[Contact musique](mailto:musiquepsm@gmail.com){: .btn .btn--info}
+[Contact danse](mailto:dansepsm@gmail.com){: .btn .btn--info}
