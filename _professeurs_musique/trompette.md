@@ -1,6 +1,6 @@
 ---
 prenom: Gilles
-instrument: Trompette
+instrument: Trompette, Trombone
 
 image: "/assets/images/photogilles.jpg"
 ---
