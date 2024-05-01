@@ -3,6 +3,7 @@ layout: single
 title: Musique
 permalink: /musique/
 ---
+![alt](/assets/images/musique-3-nb.png)
 
 ## Cours d’instrument
 **A partir de 7 ans et sans limite d’âge –** Cours de 30 minutes / semaine / élève 
@@ -54,8 +55,6 @@ Le planning variera selon l’instrument. Un calendrier précis vous sera donné
 {: .text-justify}
 
 ## Formation Musicale 
-![alt](/assets/images/musique-2.png)
-
 Elle est indispensable et complémentaire à l’apprentissage d’un instrument.
 Elle est destinée à rendre autonome chaque apprenti musicien sur la lecture d’une partition musicale par l’apprentissage de la lecture de notes et la reconnaissance des rythmes. Elle apporte les moyens de progresser avec plus de facilité, de rapidité et d’acquérir une meilleure compréhension de la musique et de son interprétation.
 {: .text-justify}
@@ -86,5 +85,7 @@ Apprentissage du jeu en ensemble en abordant différents morceaux tout au long d
 - Préparation aux différents concerts de l'année
 {: .text-justify}
 
-Travail de révision et de renforcement sur le rythme et le chant
+Travail de révision et de renforcement sur le rythme
 {: .text-justify}
+
+![alt](/assets/images/musique-6.jpg)
