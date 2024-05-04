@@ -4,7 +4,7 @@
 
 layout: splash
 excerpt: Association Musique et Danse de Pont Saint Martin
-title: Association Musique et Danse
+title: Accueil
 header:
   overlay_image: /assets/images/header.jpg
   overlay_filter: 0.5
