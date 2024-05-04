@@ -4,6 +4,8 @@ layout: single
 categories: Spectacles Media Musique
 excerpt: Les photos de l'audition de Noël sont disponibles !
 header:
+  overlay_filter: 0.5
+  overlay_image: /assets/images/audition_noel_2023/AMD-Noël23-08.jpg
   teaser: /assets/images/audition_noel_2023/AMD-Noël23-08.jpg
 ---
 
