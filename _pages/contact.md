@@ -19,7 +19,7 @@ Vous souhaitez vous investir, contactez-nous dès maintenant à Contact danse ou
 
 ## Signaler un problème sur le site
 
-[Déclarer le directement une issue sur github](https://github.com/amd-pontsaintmartin/amd-pontsaintmartin.github.io/issues){: .btn .btn--info}   
+[Déclarer directement une issue sur github](https://github.com/amd-pontsaintmartin/amd-pontsaintmartin.github.io/issues){: .btn .btn--info}   
 {: .text-justify}
 
 ![alt](/assets/images/musiqueetdanse.png)
