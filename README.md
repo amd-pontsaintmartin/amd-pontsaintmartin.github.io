@@ -2,7 +2,7 @@
 
 # Site internet de l'association musique et danse (AMD) de Pont Saint Martin
 
-Code source permettant de générer le site internet https://amd-pontsaintmartin.github.io.
+Code source permettant de générer le site internet https://amd-psm.fr.
 
 ## Fonctionnement
 
