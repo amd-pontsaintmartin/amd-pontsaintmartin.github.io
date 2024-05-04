@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Musique : solfège, formation musicale, flûte traversière, piano, trompette, trombonne, saxophone, guitare classique, guitare électrique, batterie
   Danse : ?
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://amd-pontsaintmartin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://amd-psm.fr" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "amd-pontsaintmartin/amd-pontsaintmartin.github.io"
 locale: fr-FR
 collections:

@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.5
   actions:
     - label: "Nous contacter"
-      url: "mailto:musiquepsm@gmail.com"
+      url: "/contact/"
 classes: wide
 entries_layout: grid
 feature_row:
