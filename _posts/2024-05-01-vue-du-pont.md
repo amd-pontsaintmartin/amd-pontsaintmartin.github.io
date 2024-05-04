@@ -8,6 +8,7 @@ header:
   overlay_filter: 0.8
   overlay_image: /assets/images/VueduPont_Novembre-Decembre-2023.png
   teaser: /assets/images/VueduPont_Novembre-Decembre-2023.png
+  og_image: /assets/images/VueduPont_Novembre-Decembre-2023.png
 ---
 
 **Les préparations des Galas de danse et de musique qui se tiendront en juin à l'Origami vont bon train !**
