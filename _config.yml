@@ -75,6 +75,9 @@ footer:
     - label: "Danse"
       icon: "fas fa-envelope-square"
       url: "mailto:dansepsm@gmail.com"
+    - label: "Facebook"
+      icon: "fab fa-facebook"
+      url: "https://www.facebook.com/profile.php?id=100093292129024"
 
 plugins:
   - jekyll-feed
