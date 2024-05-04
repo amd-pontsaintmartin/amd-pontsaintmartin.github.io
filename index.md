@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: splash
-excerpt: Pont Saint Martin
+excerpt: Association Musique et Danse de Pont Saint Martin
 title: Association Musique et Danse
 header:
   overlay_image: /assets/images/header.jpg
