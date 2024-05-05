@@ -4,6 +4,7 @@ title:  "Lancement du site "
 date:   2024-05-05 08:58:05 +0100
 categories: site
 header:
+  overlay_filter: 0.5
   overlay_image: /assets/images/header.jpg
   teaser: /assets/images/header.jpg
 excerpt: L'association Musique et Danse se dote d'un site internet. Vous y trouverez toutes les actualités, les informations pratiques et la description de nos activités. 
