@@ -38,7 +38,8 @@ feature_row:
       &emsp;*Guitare classique* \
       &emsp;*Guitare électrique* \
       &emsp;*Guitare folk* \
-      &emsp;*Banjo* \
+      &emsp;*Guitare basse* \
+      &emsp;*Banjo Irish Tenor et Bluegrass* \
       &emsp;*Mandoline* \
       &emsp;*Ukulélé* \
        \
