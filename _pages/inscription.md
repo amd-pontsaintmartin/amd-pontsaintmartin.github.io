@@ -4,6 +4,10 @@ title: Retrouvez ici les documents utiles
 permalink: /inscription/
 ---
 
+Les inscriptions **2024-2025** seront ouvertes à **partir du 17/06/2024**.
+{: .text-justify}
+{: .notice--danger}
+
 ## Inscription
 
 [Inscription en ligne Musique et Danse 2023-2024 (merci de privilegier ce mode)](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/musique-amd-pont-saint-martin){: .btn .btn--info}
@@ -21,7 +25,7 @@ Pour chaque cours, il vous est proposé 3 modes de paiement :
 \
 &emsp;- un paiement en 3 fois (via Carte Bancaire), le jour de l'inscription en ligne, le 10 octobre et le 10 novembre.
 \
-&emsp;- pour la musique : un paiement à partir de 0€ qui permet d'enregistrer vos coordonnées. Le solde sera à régler lors de la permanence de réinscription qui aura lieu le mercredi 26 juin de 17h00 à 19h00 et le samedi 22 juin de 10h00 à 12h00 au 3ième Lieu. En choisissant ce mode d'inscription, vous pourrez utiliser le mode de paiement de votre choix lors des permanences (chèque, espèces, chèques vacances).
+&emsp;- pour la musique : un paiement à partir de 0€ qui permet d'enregistrer vos coordonnées. Le solde sera à régler lors de la permanence de réinscription qui aura lieu le samedi 22 juin de 10h00 à 12h00 et le mercredi 26 juin de 17h00 à 19h00 au 3ième Lieu. En choisissant ce mode d'inscription, vous pourrez utiliser le mode de paiement de votre choix lors des permanences (chèque, espèces, chèques vacances).
 \
 \
 Code promo pour 3 inscriptions musique (réduction de 30€) : 3INSCRITS
