@@ -5,10 +5,13 @@ instrument: Trompette, Trombone
 image: "/assets/images/photogilles.jpg"
 ---
 
-Diplômé de l'Ecole Nationale de Cholet et du Conservatoire de Musique Nantes en trompette et formation musicale.
+Diplômé de l'Ecole Nationale de Cholet et du Conservatoire de Musique Nantes en trompette et formation musicale D.E.M.
 {: .text-justify}
 
-Je partage mes activités entre l'enseignement et la pratique de la musique notamment à l'Union philharmonique de Nantes et à l'orchestre d'harmonie Anatole Big Band en tant que trompettiste solo.
+J'ai été membre de l'orchestre Musique de l'Air Paris et de l'Union philharmonique de Nantes.
+{: .text-justify}
+
+En plus de l'enseignement, je pratique actuellement en temps que musicien à l'orchestre d'harmonie de Valet et Anatole Big Band.
 {: .text-justify}
 
 J'enseigne la trompette, la formation musicale et dirige différents ensembles depuis 1986 dans différentes écoles de musique de la région Nantaise.
