@@ -18,6 +18,7 @@ permalink: /musique/
 - Guitare classique
 - Guitare électrique
 - Guitare folk
+- Guitare basse
 - Banjo
 - Mandoline
 - Ukulélé 
@@ -27,7 +28,7 @@ Les professeurs de musique se tiennent à votre disposition pour tout renseignem
 {: .text-justify}
 
 ## Éveil
-**Entre 3 ans et 5 ans –** Cours de 45min / semaine / groupe 
+**De 0 à 5 ans –** Cours de 45min / mois / groupe 
 {: .notice--primary}
 
 L'objectif principal de la phase d'éveil est d'affiner les perceptions et de développer des aptitudes par la mise en relation du corps avec le monde sonore.
