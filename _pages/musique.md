@@ -98,8 +98,8 @@ Travail de révision et de renforcement sur le rythme
 Cet atelier n’est pas réservé aux batteurs et percussionnistes. Au contraire, il est ouvert à toutes les familles d’instruments.
 {: .text-justify}
 
-Il a pour but d'être plus autonome dans la compréhension et le ressenti du rythme. C’est l’un des éléments essentiels du développement de la pratique de tout musicien. Consolider ses bases en rythme, quel que soit son instrument permet d’avancer plus rapidement sur tous les autres domaines.
+Il permet aux élèves d'être plus autonome dans la compréhension et le ressenti du rythme. C’est l’un des éléments essentiels du développement de la pratique de tout musicien. Consolider ses bases en rythme, quel que soit son instrument permet d’avancer plus rapidement sur tous les autres domaines.
 {: .text-justify}
 
-Il sera composé de beaucoup d'écoute et de pratique du rythme et également de quelques cours théoriques (mais pas trop !) pour mieux comprendre la lecture de note pour la percussion (figures de notes et figures de silence).
+Il est composé de beaucoup d'écoute et de pratique du rythme et également de quelques cours théoriques (mais pas trop !) pour mieux comprendre la lecture de note pour la percussion (figures de notes et figures de silence).
 {: .text-justify}
