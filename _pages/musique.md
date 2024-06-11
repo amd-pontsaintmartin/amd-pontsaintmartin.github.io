@@ -27,7 +27,7 @@ Il est nécessaire d'avoir son propre instrument (à acheter ou en prêt auprès
 Les professeurs de musique se tiennent à votre disposition pour tout renseignement.
 {: .text-justify}
 
-## Éveil
+## Atelier d'éveil
 **De 0 à 5 ans –** Cours de 45min / mois / groupe 
 {: .notice--primary}
 
@@ -76,6 +76,8 @@ Les élèves présentent en fin d’année un exercice qui a été répété tou
 La formation musicale est dispensée par le professeur d'instrument et viendra s'ajouter au 30 minutes de cours d'instrument. 
 {: .text-justify}
 
+![alt](/assets/images/musique-6.jpg)
+
 ## Groupe 
 **Avoir les bases de FM et sans limite d’âge –** Cours de 1 heure / semaine / groupe 
 {: .notice--primary}
@@ -89,4 +91,15 @@ Apprentissage du jeu en ensemble en abordant différents morceaux tout au long d
 Travail de révision et de renforcement sur le rythme
 {: .text-justify}
 
-![alt](/assets/images/musique-6.jpg)
+## Atelier de rythme
+**A partir de 7 ans et sans limite d'âge –** Cours de 1 heure / mois / groupe 
+{: .notice--primary}
+
+Cet atelier n’est pas réservé aux batteurs et percussionnistes. Au contraire, il est ouvert à toutes les familles d’instruments.
+{: .text-justify}
+
+Il a pour but d'être plus autonome dans la compréhension et le ressenti du rythme. C’est l’un des éléments essentiels du développement de la pratique de tout musicien. Consolider ses bases en rythme, quel que soit son instrument permet d’avancer plus rapidement sur tous les autres domaines.
+{: .text-justify}
+
+Il sera composé de beaucoup d'écoute et de pratique du rythme et également de quelques cours théoriques (mais pas trop !) pour mieux comprendre la lecture de note pour la percussion (figures de notes et figures de silence).
+{: .text-justify}
