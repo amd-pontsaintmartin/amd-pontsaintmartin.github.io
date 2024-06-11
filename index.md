@@ -44,7 +44,7 @@ feature_row:
       &emsp;*Ukulélé* \
        \
       **Éveil** \
-      À partir de 3 ans \
+      De 0 à 5 ans \
        \
       **Découverte instrumentale** \
       À partir de 6 ans \
