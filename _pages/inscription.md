@@ -12,7 +12,7 @@ Les inscriptions **2024-2025** seront ouvertes à **partir du 17/06/2024**.
 
 [Inscription en ligne Musique et Danse 2023-2024 (merci de privilegier ce mode)](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/musique-amd-pont-saint-martin){: .btn .btn--info}
 
-**Instruction pour l'inscription en ligne Musique et Danse 2023-2024 :**
+**Instruction pour l'inscription en ligne Musique et Danse 2024-2025 :**
 \
 Sélectionner l'ensemble des cours souhaités et **l'adhésion obligatoire par famille** à Association Musique et Danse de 16€.
 \
@@ -44,7 +44,7 @@ Attention, l'inscription ne sera effective que si le nombre d'élèves par cours
 \
 [Planning Musique 2023-2024 - Découverte](/assets/documents/Planning Musique 2023-2024-Découverte.pdf){: .btn .btn--info}
 \
-[Plages horaires Musique 2023-2024](/assets/documents/Horaires 2023-2024.pdf){: .btn .btn--info}
+[Plages horaires Musique 2024-2025](/assets/documents/Horaires Musique 2024-2025.pdf){: .btn .btn--info}
 
 ## Règlements
 
