@@ -41,6 +41,15 @@ L'objectif principal de la phase d'éveil est d'affiner les perceptions et de d�
 - Utilisation de la voix dans la musique avec des chants collectifs.
 {: .text-justify}
 
+
+Deux groupes:
+- 0-3 ans (pré-scolaires), présence d'un parent (ou garde d'enfant) par famille
+- 3-5 ans (maternelles), présence d'un adulte responsable des enfants par atelier
+{: .text-justify}
+
+Possibilité d'accueillir des fratries dans le groupe 0-3 ans. Mais même les cours sont adaptés un peu pour les enfants plus grands, l'activité reste destinée au 0-3 ans.
+{: .text-justify}
+
 ## Découverte instrumentale
 **A partir de 6 ans –** Cours de 30min / semaine / groupe 
 {: .notice--primary}
