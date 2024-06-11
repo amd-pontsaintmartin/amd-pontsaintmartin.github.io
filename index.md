@@ -43,7 +43,7 @@ feature_row:
       &emsp;*Mandoline* \
       &emsp;*Ukulélé* \
        \
-      **Éveil** \
+      **Atelier d'éveil** \
       De 0 à 5 ans \
        \
       **Découverte instrumentale** \
@@ -53,7 +53,10 @@ feature_row:
       Enfants, adolescent.e.s, adultes \
        \
       **Groupe**\
-      adolescent.e.s, adultes
+      Adolescent.e.s, adultes \
+       \
+      **Atelier de rythme**\
+      À partir de 7 ans
       {: .notice--primary}
      
     url: "/musique/"
