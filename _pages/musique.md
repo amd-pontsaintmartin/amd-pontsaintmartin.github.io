@@ -47,7 +47,7 @@ Deux groupes:
 - 3-5 ans (maternelles), présence d'un adulte responsable des enfants par atelier
 {: .text-justify}
 
-Possibilité d'accueillir des fratries dans le groupe 0-3 ans. Mais même les cours sont adaptés un peu pour les enfants plus grands, l'activité reste destinée au 0-3 ans.
+Possibilité d'accueillir des fratries dans le groupe 0-3 ans. Même si les cours sont un peu adaptés pour les enfants plus grands, l'activité reste destinée au 0-3 ans.
 {: .text-justify}
 
 ## Découverte instrumentale
