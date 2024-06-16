@@ -12,7 +12,7 @@ Les inscriptions **2024-2025** seront ouvertes à **partir du 17/06/2024**.
 
 [Inscription en ligne Musique 2024-2025 / Martipontains (merci de privilegier ce mode)](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/musique20242025-amd-pont-saint-martin){: .btn .btn--info}
 
-[Inscription en ligne Musique 2024-2025 / or commune (merci de privilegier ce mode)](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscription-musique-2024-2025-or-commune){: .btn .btn--info}
+[Inscription en ligne Musique 2024-2025 / hors commune (merci de privilegier ce mode)](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscription-musique-2024-2025-or-commune){: .btn .btn--info}
 
 **Instruction pour l'inscription en ligne Musique et Danse 2024-2025 :**
 \
