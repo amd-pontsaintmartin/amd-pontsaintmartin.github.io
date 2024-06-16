@@ -4,7 +4,7 @@ title: Retrouvez ici les documents utiles
 permalink: /inscription/
 ---
 
-Les inscriptions **2024-2025** seront ouvertes à **partir du 17/06/2024**.
+Les inscriptions **2024-2025** seront ouvertes à **partir du 16/06/2024**.
 {: .text-justify}
 {: .notice--danger}
 
