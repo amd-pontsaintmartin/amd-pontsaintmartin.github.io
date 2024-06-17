@@ -5,7 +5,7 @@ date:   2024-06-17 09:58:05 +0100
 categories: Musique Association 
 header:
   teaser: /assets/images/affiche inscription 2024-2025.svg
-excerpt: Les inscriptions musique **2024-2025** seront ouvertes jusqu'au 08/09/2024.
+excerpt: Les inscriptions musique **2024-2025** sont ouvertes jusqu'au 08/09/2024.
 ---
 
 Comme l'année dernière, nous proposons une inscription via HelloAsso depuis notre site internet **www.amd-psm.fr** 
