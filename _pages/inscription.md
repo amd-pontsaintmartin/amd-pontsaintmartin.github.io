@@ -42,7 +42,7 @@ Attention, l'inscription ne sera effective que si le nombre d'élèves par cours
 
 ## Plannings
 
-[Planning Musique 2023-2024](/assets/documents/Planning Musique 2023-2024.pdf){: .btn .btn--info}
+[Planning Musique 2024-2025](/assets/documents/Planning Musique 2024-2025.pdf){: .btn .btn--info}
 \
 [Planning Musique 2023-2024 - Découverte](/assets/documents/Planning Musique 2023-2024-Découverte.pdf){: .btn .btn--info}
 \
