@@ -15,7 +15,11 @@ Les inscriptions **2024-2025** seront ouvertes à **partir du 16/06/2024**.
 
 [Inscription en ligne Musique 2024-2025 / Martipontains (merci de privilegier ce mode)](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/musique20242025-amd-pont-saint-martin){: .btn .btn--info}
 
-[Inscription en ligne Musique 2024-2025 / hors commune (merci de privilegier ce mode)](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscription-musique-2024-2025-or-commune){: .btn .btn--info}
+[Inscription en ligne Musique 2024-2025 / Hors commune (merci de privilegier ce mode)](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscription-musique-2024-2025-or-commune){: .btn .btn--info}
+
+[Inscription en ligne Modern Jazz et Hip-hop 2024-2025 / Enfants et Ados](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/danse-2024-2025-amd-pont-saint-martin-1){: .btn .btn--info}
+
+[Inscription en ligne Modern Jazz et autres danses 2024-2025 / Adultes ](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/danse-adultes-amd-pont-saint-martin-2){: .btn .btn--info}
 
 **Instruction pour l'inscription en ligne Musique et Danse 2024-2025 :**
 \
@@ -33,8 +37,8 @@ Pour chaque cours, il vous est proposé 3 modes de paiement :
 &emsp;- pour la musique : un paiement à partir de 0€ qui permet d'enregistrer vos coordonnées. Le solde sera à régler lors de la permanence de réinscription qui aura lieu le samedi 22 juin de 10h00 à 12h00 et le mercredi 26 juin de 17h00 à 19h00 au 3ième Lieu. En choisissant ce mode d'inscription, vous pourrez utiliser le mode de paiement de votre choix lors des permanences (chèque, espèces, chèques vacances).
 \
 \
-Code promo pour 3 inscriptions musique (réduction de 30€) : 3INSCRITS
-Code promo pour 4 inscriptions musique et + (réduction de 50€) : 4+INSCRITS
+Code promo pour 3 adhérents musique (réduction de 30€) : 3INSCRITS
+Code promo pour 4 adhérents musique et + (réduction de 50€) : 4+INSCRITS
 \
 \
 Attention, l'inscription ne sera effective que si le nombre d'élèves par cours est suffisant et dans la limite du nombre de places disponibles sur chaque créneau. Par ailleurs, elle ne sera définitive qu'une fois le règlement intégral de la cotisation et des frais d'inscription réceptionnés par l'association.
