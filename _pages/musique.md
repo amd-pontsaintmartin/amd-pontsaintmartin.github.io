@@ -41,7 +41,31 @@ L'objectif principal de la phase d'éveil est d'affiner les perceptions et de d�
 - Utilisation de la voix dans la musique avec des chants collectifs.
 {: .text-justify}
 
-Possibilité d'accueillir des fratries dans le groupe 0-3 ans. Mais même les cours sont adaptés un peu pour les enfants plus grands, l'activité reste destinée au 0-3 ans.
+Mot de l'intervenante, Claire Templé - Wicahpi Chants pour enfants
+{: .text-justify}
+
+> Chers parents, 
+> \
+> \
+>Je suis ravie de vous présenter mes ateliers d'éveil musical dédiés aux enfants de 0 à 5 ans. En tant que musicienne depuis l'enfance, j'ai réuni un répertoire riche de plus de 400 chansons de la petite enfance pour éveiller les sens de vos jeunes enfants. Linguiste de formation, je propose également des chants en langues étrangères, ce qui contribue au développement de l'oreille musicale et à l'ouverture culturelle.
+> \
+> \
+>Les ateliers s'inspirent de mon expérience de professionnelle de la Petite Enfance et de la pédagogie Montessori, à laquelle je suis formée, pour accompagner au mieux les enfants de 0 à 6 ans dans leur développement. Chaque séance est une invitation à la découverte à travers la manipulation d'instruments de qualité, offrant une expérience sonore apaisante et enrichissante&#x202F;: bols chantants, carillons koshi, tambour de l'océan, tambours à langues, tambour en toile et en peau, tubes sonores, tambours à main, arbre de pluie, claves, maracas, grelots, castagnettes, guitare, ukulélé, harpe, sansula, kalimba, flûte amérindienne, métallophone, guiros, guimbardes, etc.
+> \
+> \
+>Au programme : comptines, jeux de doigts, chansons à gestes, percussions, jeux de rythme, activités motrices, danses et moment de relaxation sonore pour permettre à vos enfants de se détendre en douceur. Chaque atelier dure 45 minutes.
+> \
+> \
+>Au plaisir d'accueillir vos enfants dans mon univers musical bienveillant et ludique :)
+{: .text-justify}
+
+[facebook/wicahpichants](https://www.facebook.com/wicahpichants)
+
+[instagram/wicahpichants](https://www.instagram.com/wicahpi_music/)
+
+[Site-internet/wicahpichants](https://wicahpi-chants-pour-enfants.jimdosite.com)
+
+Possibilité d’accueillir des fratries dans le groupe 0-3 ans. Une adaptation pourra être faite pour les enfants plus grands, mais l’activité reste destinée au 0-3 ans. 
 {: .text-justify}
 
 Horaires :

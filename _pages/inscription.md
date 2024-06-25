@@ -13,9 +13,9 @@ Les inscriptions **2024-2025** seront ouvertes à **partir du 16/06/2024**.
 **Attention**, nous ne prenons plus de **nouvelle inscription Piano**. Merci de nous [envoyer un mail](mailto:musiquepsm@gmail.com) pour être sur liste d'attente. 
 
 
-[Inscription en ligne Musique 2024-2025 / Martipontains (merci de privilegier ce mode)](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/musique20242025-amd-pont-saint-martin){: .btn .btn--info}
+[Inscription en ligne Musique 2024-2025 / Martipontains](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/musique20242025-amd-pont-saint-martin){: .btn .btn--info}
 
-[Inscription en ligne Musique 2024-2025 / Hors commune (merci de privilegier ce mode)](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscription-musique-2024-2025-or-commune){: .btn .btn--info}
+[Inscription en ligne Musique 2024-2025 / Hors commune](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscription-musique-2024-2025-or-commune){: .btn .btn--info}
 
 [Inscription en ligne Modern Jazz et Hip-hop 2024-2025 / Enfants et Ados](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/danse-2024-2025-amd-pont-saint-martin-1){: .btn .btn--info}
 
@@ -45,7 +45,7 @@ Attention, l'inscription ne sera effective que si le nombre d'élèves par cours
 {: .text-justify}
 {: .notice--primary}
 
-[Fiche d'inscription Musique 2024-2025](/assets/documents/AMD Fiche inscription familiale musique 2024-2025.pdf){: .btn .btn--info}
+[Fiche d'inscription Musique 2024-2025 (pour les permanences)](/assets/documents/AMD Fiche inscription familiale musique 2024-2025.pdf){: .btn .btn--info}
 
 ## Plannings
 
