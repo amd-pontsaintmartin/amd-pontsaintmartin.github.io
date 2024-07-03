@@ -179,3 +179,5 @@ Interprétation de chansons francophones (soit proposées par l’animatrice, so
 - Respect, écoute, travail individuel en dehors des séances
 - Participation au spectacle de fin d'année
 {: .text-justify}
+
+![alt](/assets/images/chorale-schtroumpfs.webp)
