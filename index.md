@@ -59,7 +59,7 @@ feature_row:
       **Atelier de rythme** * *Nouveau* * \
       À partir de 7 ans\
        \
-      **Atelier de chant et technique vocale** * *Nouveau* * \
+      **Atelier de chant et techniques vocales** * *Nouveau* * \
       Enfants, adolescent.e.s, adultes
       {: .notice--primary}
      

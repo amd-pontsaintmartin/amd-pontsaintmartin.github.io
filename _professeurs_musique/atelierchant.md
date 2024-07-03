@@ -1,6 +1,6 @@
 ---
 prenom: Anne-Laure
-instrument: Atelier de chant et technique vocale
+instrument: Atelier de chant et techniques vocales
 
 image: "/assets/images/chant.jpg"
 ---

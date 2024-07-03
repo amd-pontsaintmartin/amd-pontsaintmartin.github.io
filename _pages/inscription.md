@@ -17,6 +17,8 @@ Les inscriptions **2024-2025** seront ouvertes à **partir du 16/06/2024**.
 
 [Inscription en ligne Musique 2024-2025 / Hors commune](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscription-musique-2024-2025-or-commune){: .btn .btn--info}
 
+[Inscription en ligne Chant et Techniques vocales 2024-2025 / Martipontains](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscription-chant-2024-2025-martipontains){: .btn .btn--info}
+
 [Inscription en ligne Modern Jazz et Hip-hop 2024-2025 / Enfants et Ados](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/danse-2024-2025-amd-pont-saint-martin-1){: .btn .btn--info}
 
 [Inscription en ligne Modern Jazz et autres danses 2024-2025 / Adultes ](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/danse-adultes-amd-pont-saint-martin-2){: .btn .btn--info}
@@ -34,7 +36,7 @@ Pour chaque cours, il vous est proposé 3 modes de paiement :
 \
 &emsp;- un paiement en 3 fois (via Carte Bancaire), le jour de l'inscription en ligne, le 10 octobre et le 10 novembre.
 \
-&emsp;- pour la musique : un paiement à partir de 0€ qui permet d'enregistrer vos coordonnées. Le solde sera à régler lors de la permanence de réinscription qui aura lieu le samedi 22 juin de 10h00 à 12h00 et le mercredi 26 juin de 17h00 à 19h00 au 3ième Lieu. En choisissant ce mode d'inscription, vous pourrez utiliser le mode de paiement de votre choix lors des permanences (chèque, espèces, chèques vacances).
+&emsp;- pour la musique : un paiement à partir de 0€ qui permet d'enregistrer vos coordonnées. Le solde sera à régler lors des permanences de réinscription (samedi 22 juin de 10h00 à 12h00 et le mercredi 26 juin de 17h00 à 19h00 au 3ième Lieu) (Forum des associations samedi 7 septembre de 10h00 à 12h00 à l'Origami). En choisissant ce mode d'inscription, vous pourrez utiliser le mode de paiement de votre choix lors des permanences (chèque, espèces, chèques vacances).
 \
 \
 Code promo pour 3 adhérents musique (réduction de 30€) : 3INSCRITS
