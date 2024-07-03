@@ -147,3 +147,35 @@ Il permet aux élèves d'être plus autonome dans la compréhension et le ressen
 
 Il est composé de beaucoup d'écoute et de pratique du rythme et également de quelques cours théoriques (mais pas trop !) pour mieux comprendre la lecture de note pour la percussion (figures de notes et figures de silence).
 {: .text-justify}
+
+## Atelier de chant et technique vocale
+**A partir de 7 ans et sans limite d'âge –** Semi-collectifs (entre 8 et 12 personnes) / 25 ateliers dans l'année de 1h30 (environ 1 par semaine) les mercredis soirs
+{: .notice--primary}
+
+**Déroulement d’un atelier :**
+Dans un premier temps, réveil corporel rapide (étirements, prise de conscience de la posture), puis échauffement vocal collectif via des exercices ciblés. 
+Différents thèmes seront abordés durant l’année sous forme de séquences, par exemple :  
+- le souffle, la respiration dans le chant
+- exercices rythmiques
+- explorations du timbre, de la résonance de la voix
+- découverte et initiation à l’improvisation vocale
+- …
+{: .text-justify}
+
+Puis nous passons au travail d’interprétation des chansons, avec généralement une à deux chansons collectives pour démarrer, puis l’interprétation de chansons en individuel ou en petit collectif (duo, trio,...).
+{: .text-justify}
+
+**Modalités :**
+Vous serez accompagné.es musicalement par des bandes-son préparées à l’avance, ajustées à votre tonalité pendant l’atelier et mises à disposition (via un drive) pour poursuivre le travail chez vous, en autonomie.
+{: .text-justify}
+
+Ouvert à tous.tes - pas de critères artistiques.
+Interprétation de chansons francophones (soit proposées par l’animatrice, soit à votre initiative).
+{: .text-justify}
+
+**Engagements des adhérent.es	:**
+- Découvrir un répertoire de chansons francophones
+- Chanter en semi-collectif
+- Respect, écoute, travail individuel en dehors des séances
+- Participation au spectacle de fin d'année
+{: .text-justify}

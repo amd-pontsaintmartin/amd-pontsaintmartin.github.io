@@ -24,6 +24,7 @@ feature_row:
     url: "/association/"
     btn_label: "En savoir plus"
     btn_class: "btn--primary"
+
   - #image_path: /assets/images/musique-1.png
     title: "Musique"
     excerpt: |
@@ -34,7 +35,7 @@ feature_row:
       &emsp;*Trombone* \
       &emsp;*Saxophone* \
       &emsp;*Flûte traversière* \
-      &emsp;*Batterie* \
+      &emsp;*Batterie* \ 
       &emsp;*Guitare classique* \
       &emsp;*Guitare électrique* \
       &emsp;*Guitare folk* \
@@ -43,7 +44,7 @@ feature_row:
       &emsp;*Mandoline* \
       &emsp;*Ukulélé* \
        \
-      **Atelier d'éveil** \
+      **Atelier d'éveil** * *Nouveau* * \
       De 0 à 5 ans \
        \
       **Découverte instrumentale** \
@@ -55,8 +56,11 @@ feature_row:
       **Groupe**\
       Adolescent.e.s, adultes \
        \
-      **Atelier de rythme**\
-      À partir de 7 ans
+      **Atelier de rythme** * *Nouveau* * \
+      À partir de 7 ans\
+       \
+      **Atelier de chant et technique vocale** * *Nouveau* * \
+      Enfants, adolescent.e.s, adultes
       {: .notice--primary}
      
     url: "/musique/"
