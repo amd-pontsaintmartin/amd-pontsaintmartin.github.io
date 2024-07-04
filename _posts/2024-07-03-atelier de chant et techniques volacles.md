@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.5
   overlay_image: /assets/images/chorale-schtroumpfs.webp
   teaser: /assets/images/chorale-schtroumpfs.webp
-excerpt: Nouveau ! Nous vous proposons des ateliers de Chant et Techniques volacles à Pont Saint Martin
+excerpt: Nouveau ! Nous vous proposons des ateliers de Chant et Techniques vocales à Pont Saint Martin
 ---
 
 A partir de 7 ans et sans limite d'âge, nous vous proposons 25 ateliers semi-collectifs (entre 8 et 12 personnes) de 1h30, les mercredis soirs au 3ième Lieu.
@@ -25,5 +25,5 @@ Différents thèmes seront abordés durant l’année sous forme de séquences, 
 Nous passerons ensuite au travail d’interprétation des chansons, avec généralement une à deux chansons collectives pour démarrer, puis l’interprétation de chansons (francophones) en individuel ou en petit collectif (duo, trio,...).
 {: .text-justify}
 
-**Rendez-vous vite sur la page Inscription www.amd-psm.fr**
+**Rendez-vous vite sur la page [Inscription www.amd-psm.fr](/inscription/)**
 {: .text-justify}
