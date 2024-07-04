@@ -34,6 +34,7 @@ collections:
 - professeurs_danse
 include: ["_pages"]
 github: [metadata]
+paginate: 4
 
 # Build settings
 theme: minimal-mistakes-jekyll
