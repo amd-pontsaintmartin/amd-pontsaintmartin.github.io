@@ -35,7 +35,7 @@ feature_row:
       &emsp;*Trombone* \
       &emsp;*Saxophone* \
       &emsp;*Flûte traversière* \
-      &emsp;*Batterie* \ 
+      &emsp;*Batterie* \
       &emsp;*Guitare classique* \
       &emsp;*Guitare électrique* \
       &emsp;*Guitare folk* \
