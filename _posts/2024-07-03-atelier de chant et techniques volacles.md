@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Atelier de Chant et Techniques volacles"
+title:  "Atelier de Chant et Techniques vocales"
 date:   2024-07-03 09:58:05 +0100
 categories: Musique
 header:
