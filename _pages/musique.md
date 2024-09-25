@@ -121,7 +121,7 @@ La formation musicale est dispensée par le professeur d'instrument et viendra s
 ![alt](/assets/images/musique-6.jpg)
 
 ## Groupe 
-**Avoir les bases de FM et sans limite d’âge –** Cours de 1 heure / semaine / groupe 
+**Avoir les bases de FM et sans limite d’âge –** Cours de 1 heure ou de 30min / semaine / groupe 
 {: .notice--primary}
 
 Apprentissage du jeu en ensemble en abordant différents morceaux tout au long de l'année :
@@ -131,6 +131,11 @@ Apprentissage du jeu en ensemble en abordant différents morceaux tout au long d
 {: .text-justify}
 
 Travail de révision et de renforcement sur le rythme
+{: .text-justify}
+
+> Groupe instrumental ado >> Mercredis de 15h à 16h \
+> Groupe instrumental adulte >> Lundis de 19h45 à 20h15 \
+> Groupe guitare classique ado >> Jeudis de 18h15 à 19h15 
 {: .text-justify}
 
 ## Atelier de rythme
