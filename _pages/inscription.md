@@ -10,14 +10,9 @@ Les inscriptions **2024-2025** seront ouvertes à **partir du 16/06/2024**.
 
 ## Inscription
 
-**Attention**, nous ne prenons plus de **nouvelle inscription Piano**. Merci de nous [envoyer un mail](mailto:musiquepsm@gmail.com) pour être sur liste d'attente. 
+**Pour la musique**, les inscriptions aux cours individuels sont maintenant closes. Il reste toutefois des places dans les cours collectifs (instrumental ado, instrumental adulte, guitare classique, éveil, chant et techniques vocales). Merci de nous [envoyer un mail](mailto:musiquepsm@gmail.com) si vous étes interessés.
 
-
-[Inscription en ligne Musique 2024-2025 / Martipontains](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/musique20242025-amd-pont-saint-martin){: .btn .btn--info}
-
-[Inscription en ligne Musique 2024-2025 / Hors commune](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscription-musique-2024-2025-or-commune){: .btn .btn--info}
-
-[Inscription en ligne Chant et Techniques vocales 2024-2025 / Martipontains](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscription-chant-2024-2025-martipontains){: .btn .btn--info}
+[Inscription en ligne Chant et Techniques vocales 2024-2025](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscription-chant-2024-2025-martipontains){: .btn .btn--info}
 
 [Inscription en ligne Modern Jazz et Hip-hop 2024-2025 / Enfants et Ados](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/danse-2024-2025-amd-pont-saint-martin-1){: .btn .btn--info}
 
@@ -47,15 +42,14 @@ Attention, l'inscription ne sera effective que si le nombre d'élèves par cours
 {: .text-justify}
 {: .notice--primary}
 
-[Fiche d'inscription Musique 2024-2025 (pour les permanences)](/assets/documents/AMD Fiche inscription familiale musique 2024-2025.pdf){: .btn .btn--info}
 
 ## Plannings
 
-[Planning Musique 2024-2025](/assets/documents/Planning Musique 2024-2025.pdf){: .btn .btn--info}
+[Planning Musique 2024-2025](/assets/documents/Calendrier Musique 2024-2025.pdf){: .btn .btn--info}
 \
-[Planning Musique 2023-2024 - Découverte](/assets/documents/Planning Musique 2023-2024-Découverte.pdf){: .btn .btn--info}
+[Planning Musique 2024-2025 - Découverte](/assets/documents/Calendrier Découverte 2024-2025.pdf){: .btn .btn--info}
 \
-[Plages horaires Musique 2024-2025](/assets/documents/Horaires Musique 2024-2025.pdf){: .btn .btn--info}
+[Planning Musique 2024-2025 - Salle](/assets/documents/Musique - Planning Salle 2024-2025.png){: .btn .btn--info}
 
 ## Règlements
 
