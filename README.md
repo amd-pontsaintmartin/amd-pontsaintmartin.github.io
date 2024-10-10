@@ -7,7 +7,10 @@ Code source permettant de générer le site internet https://amd-psm.fr.
 ## Fonctionnement
 
 Le site est produit par le générateur de site statique [jekyll](https://jekyllrb.com/) à partir de la branche `main` de ce dépôt. 
-Il est publié automatiquement sur une [GitHub Pages](https://pages.github.com/).
+Il est publié automatiquement sur une [GitHub Pages](https://pages.github.com/) :
+
+- à chaque modification poussée sur la branche `main`,
+- toutes les nuits.
 
 Il utilise le thème [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
 
