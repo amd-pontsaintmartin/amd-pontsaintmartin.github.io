@@ -19,4 +19,4 @@ Le spectacle est gratuit pour tous, toutefois une boite sera disposée à l'entr
 Les bénéfices serviront à financer le spectacle.
 {: .text-justify}
 
-[![première page programme](/assets/images/Audition de fin d'année 2024.jpg)](/assets/documents/Audition de fin d'année 2024.jpg)
+![première page programme](/assets/images/Audition de fin d'année 2024.jpg)
