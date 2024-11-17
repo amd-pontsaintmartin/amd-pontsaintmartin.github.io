@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Audition de fin d'année 2024"
-date:   2024-11-15 08:58:05 +0100
+date:   2024-11-17 19:58:05 +0100
 categories: Musique Spectacles
 header:
   teaser: /assets/images/Audition de fin d'année 2024.jpg
