@@ -2,7 +2,7 @@
 prenom: Claire
 instrument: Atelier d'éveil
 
-image: "/assets/images/Claire templé.jpg"
+image: "/assets/images/professeurs_musique/Claire.jpg"
 ---
 
 Je suis Claire Templé, j'ai 41 ans et suis maman de 3 jeunes enfants. 

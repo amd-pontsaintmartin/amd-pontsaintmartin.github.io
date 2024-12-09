@@ -1,7 +1,7 @@
 ---
 prenom: Joël
 instrument: Guitare classique
-image: "/assets/images/guitar.jpg"
+image: "/assets/images/professeurs_musique/Joël.jpg"
 ---
 
 Diplomé des conservatoires de Nantes et de Tours (DEM), j'ai débuté la guitare en 1969. Parallèlement aux études classiques (guitare, solfège et écriture musicale), je me suis interessé très tôt aux musiques traditionnelles, au folk américain et au blues.

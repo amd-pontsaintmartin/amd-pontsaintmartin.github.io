@@ -2,7 +2,7 @@
 prenom: Antoine
 instrument: Saxophone
 
-image: "/assets/images/photoantoine.JPG"
+image: "/assets/images/professeurs_musique/Antoine.JPG"
 ---
 
 J'ai étudié le saxophone classique, le jazz et les musiques actuelles en me formant au conservatoire ainsi qu’à l’IMEP Paris College of Music auprès de professeurs tels que Guillaume Guedin, Peter Giron et Rick Margitza.

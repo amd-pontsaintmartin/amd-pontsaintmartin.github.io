@@ -1,7 +1,7 @@
 ---
 prenom: Christine
 instrument: Flûte traversière
-image: "/assets/images/photochristine.jpg"
+image: "/assets/images/professeurs_musique/Christine.jpg"
 ---
 
 Diplômée de la  faculté de Musicologie et du Conservatoire de Musique de la ville de Tours (37) en flûte traversière et formation musicale.

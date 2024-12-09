@@ -2,7 +2,7 @@
 prenom: Anne-Laure
 instrument: Atelier de chant et techniques vocales
 
-image: "/assets/images/chant.jpg"
+image: "/assets/images/professeurs_musique/Anne-Laure.jpg"
 ---
 
 Interprète depuis de longues années, mes premiers pas sur scène ont débuté avec la chorale de mon collège. Depuis, je n'ai cessé de participer à des projets musicaux, dans un premier temps en menant études et carrière professionnelle, puis en ayant une pratique professionnelle de la musique.

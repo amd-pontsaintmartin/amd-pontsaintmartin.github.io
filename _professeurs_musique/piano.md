@@ -1,7 +1,7 @@
 ---
 prenom: Simon
 instrument: Piano
-image: "/assets/images/photosimon.jpg"
+image: "/assets/images/professeurs_musique/Simon.jpg"
 ---
 
 J'ai commencé la musique lorsque j'étais enfant, d'abord par la batterie que j'ai pratiquée pendant de nombreuses années avant de me consacrer uniquement au piano.
