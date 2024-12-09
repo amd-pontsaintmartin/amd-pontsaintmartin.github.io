@@ -5,8 +5,8 @@ date:   2024-03-01 18:58:05 +0100
 categories: Presse Musique
 excerpt: Nouvel article dans le magazine de la ville de Pont Saint Martin.
 header:
-  image: /assets/images/VueduPont_Novembre-Decembre-2023.png
-  teaser: /assets/images/VueduPont_Novembre-Decembre-2023.png
+  image: /assets/images/actualités/vue_du_pont.png
+  teaser: /assets/images/actualités/vue_du_pont.png
 ---
 
 *« J’ai dit qu’un jour je me mettrais à la musique et puis le temps s’est écoulé…et puis plus rien ! »*

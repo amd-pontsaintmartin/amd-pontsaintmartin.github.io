@@ -4,7 +4,7 @@ title:  "Ouverture des inscriptions musique 2024-2025"
 date:   2024-06-17 09:58:05 +0100
 categories: Musique Association 
 header:
-  teaser: /assets/images/affiche inscription 2024-2025.svg
+  teaser: /assets/images/actualités/2024_06_02_inscription_musique_2024-2025/affiche_inscription_2024-2025.svg
 excerpt: Les inscriptions musique **2024-2025** sont ouvertes jusqu'au 08/09/2024.
 ---
 
@@ -35,4 +35,4 @@ Attention, l’inscription ne sera effective que si le nombre d’élèves par c
 Si vous avez des questions n'hésitez pas à passer nous voir lors des permanences le samedi 22 juin de 10h00 à 12h00 ou le mercredi 26 juin de 17h00 à 19h00 au 3ième Lieu ou à nous envoyer un mail [Contact musique](mailto:musiquepsm@gmail.com){: .btn .btn--info} 
 {: .text-justify}
 
-![alt](/assets/images/affiche inscription 2024-2025.svg)
+![alt](/assets/images/actualités/2024_06_02_inscription_musique_2024-2025/affiche_inscription_2024-2025.svg)

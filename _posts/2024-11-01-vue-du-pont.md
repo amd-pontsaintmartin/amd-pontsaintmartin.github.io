@@ -5,8 +5,8 @@ date:   2024-11-01 08:53:05 +0100
 categories: Presse Musique Danse
 excerpt: Nouvel article dans le magazine de la ville de Pont Saint Martin.
 header:
-  image: /assets/images/VueduPont_Novembre-Decembre-2023.png
-  teaser: /assets/images/VueduPont_Novembre-Decembre-2023.png
+  image: /assets/images/actualités/vue_du_pont.png
+  teaser: /assets/images/actualités/vue_du_pont.png
 ---
 
 **L'audition de musique de fin d'année** de l'association musique et danse de Pont-Saint-Martin (AMD PSM) prend de l'avance sur les fêtes et vous attend nombreux à la salle de l'origami le dimanche 1er décembre 2024 à 15h00. 

@@ -5,8 +5,8 @@ date:   2024-05-01 08:53:05 +0100
 categories: Presse Musique Danse
 excerpt: Nouvel article dans le magazine de la ville de Pont Saint Martin.
 header:
-  image: /assets/images/VueduPont_Novembre-Decembre-2023.png
-  teaser: /assets/images/VueduPont_Novembre-Decembre-2023.png
+  image: /assets/images/actualités/vue_du_pont.png
+  teaser: /assets/images/actualités/vue_du_pont.png
 ---
 
 **Les préparations des Galas de danse et de musique qui se tiendront en juin à l'Origami vont bon train !**

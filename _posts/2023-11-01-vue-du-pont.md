@@ -5,8 +5,8 @@ date:   2023-11-01 18:58:05 +0100
 categories: Presse Musique Danse
 excerpt: Nouvel article dans le magazine de la ville de Pont Saint Martin.
 header:
-  image: /assets/images/VueduPont_Novembre-Decembre-2023.png
-  teaser: /assets/images/VueduPont_Novembre-Decembre-2023.png
+  image: /assets/images/actualités/vue_du_pont.png
+  teaser: /assets/images/actualités/vue_du_pont.png
 ---
 
 Côté danse, nous comptons 132 adhérents en modern jazz et hip hop et 47 inscrits au niveau de la danse à 2 et danse en ligne. Le cours de rock adultes débutants du jeudi soir dispose encore de quelques places.

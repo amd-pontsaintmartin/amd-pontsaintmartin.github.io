@@ -5,8 +5,8 @@ date:   2024-07-03 09:58:05 +0100
 categories: Musique
 header:
   overlay_filter: 0.5
-  overlay_image: /assets/images/chorale-schtroumpfs.webp
-  teaser: /assets/images/chorale-schtroumpfs.webp
+  overlay_image: /assets/musique/atelier-chant-schtroumpfs.webp
+  teaser: /assets/images/musique/atelier-chant-schtroumpfs.webp
 excerpt: Nouveau ! Nous vous proposons des ateliers de Chant et Techniques vocales à Pont Saint Martin
 ---
 

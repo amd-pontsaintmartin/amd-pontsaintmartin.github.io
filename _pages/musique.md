@@ -3,7 +3,7 @@ layout: single
 title: Musique
 permalink: /musique/
 ---
-![alt](/assets/images/musique-3-nb.png)
+![alt](/assets/images/musique/music.png)
 
 ## Cours d’instrument
 **A partir de 7 ans et sans limite d’âge –** Cours de 30 minutes / semaine / élève 
@@ -86,7 +86,7 @@ Planning :
 ## Découverte instrumentale
 **A partir de 6 ans –** Cours de 30min / semaine / groupe 
 {: .notice--primary}
-![alt](/assets/images/decouverte instru flute.jpg)
+![alt](/assets/images/musique/découverte-instrumentale-flûte.jpg)
 
 Passerelle entre l’éveil et le cursus instrumental, les élèves pourront découvrir et pratiquer une partie des instruments enseignés à l’association de musique.
 {: .text-justify}
@@ -118,7 +118,7 @@ Les élèves présentent en fin d’année un exercice qui a été répété tou
 La formation musicale est dispensée par le professeur d'instrument et viendra s'ajouter au 30 minutes de cours d'instrument. 
 {: .text-justify}
 
-![alt](/assets/images/musique-6.jpg)
+![alt](/assets/images/musique/formation-musicale.jpg)
 
 ## Groupe 
 **Avoir les bases de FM et sans limite d’âge –** Cours de 1 heure ou de 30min / semaine / groupe 
@@ -183,4 +183,4 @@ Interprétation de chansons francophones (soit proposées par l’animatrice, so
 - Participation au spectacle de fin d'année
 {: .text-justify}
 
-![alt](/assets/images/chorale-schtroumpfs.webp)
+![alt](/assets/images/musique/atelier-chant-schtroumpfs.webp)

@@ -6,11 +6,11 @@ categories: Presse Musique
 excerpt: Nouvel article dans le magazine de la ville de Pont Saint Martin.
 header:
   overlay_filter: 0.5
-  overlay_image: /assets/images/audition_noel_2023/ensemble.jpg
-  teaser: /assets/images/audition_noel_2023/ensemble.jpg
+  overlay_image: /assets/images/actualités/2023_11_01_spectacle_musique_decembre_2023/photos_spectacle_musique_decembre_2023/ensemble.jpg
+  teaser: /assets/images/actualités/2023_11_01_spectacle_musique_decembre_2023/photos_spectacle_musique_decembre_2023/ensemble.jpg
 ---
 
-![alt](/assets/images/audition_noel_2023/ensemble.jpg)
+![alt](/assets/images/actualités/2023_11_01_spectacle_musique_decembre_2023/photos_spectacle_musique_decembre_2023/ensemble.jpg)
 
 **Le 08.12.2023 à l’Origami**, c’était jour de fête pour les élèves, petits et grands de l’association Musique et Danse de Pont-Saint-Martin !
 {: .text-justify}

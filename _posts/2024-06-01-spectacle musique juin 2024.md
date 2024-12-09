@@ -1,12 +1,12 @@
 ---
 layout: single
 title:  "Spectacle musique 16 juin 2024 "
-date:   2024-06-02 08:58:05 +0100
+date:   2024-06-01 08:58:05 +0100
 categories: Musique Spectacles
 header:
   overlay_filter: 0.5
-  overlay_image: /assets/images/origami.jpg
-  teaser: /assets/images/origami.jpg
+  overlay_image: /assets/images/actualités/2024_06_01_spectacle_musique_juin_2024/origami.jpg
+  teaser: /assets/images/actualités/2024_06_01_spectacle_musique_juin_2024/origami.jpg
 excerpt: Nous vous attendons nombreux pour le spectacle de musique qui aura lieu le **dimanche 16/06 à 15h à l'Origami**.
 ---
 Les répétitions battent leur plein et c'est avant impatience que nous vous attendons pour le spectacle de musique qui aura lieu le **dimanche 16/06 à 15h à l'Origami** !

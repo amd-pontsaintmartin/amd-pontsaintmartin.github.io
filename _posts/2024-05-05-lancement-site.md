@@ -5,8 +5,8 @@ date:   2024-05-05 08:58:05 +0100
 categories: site
 header:
   overlay_filter: 0.5
-  overlay_image: /assets/images/header.jpg
-  teaser: /assets/images/header.jpg
+  overlay_image: /assets/images/AMD-image-du-site.jpg
+  teaser: /assets/images/AMD-image-du-site.jpg
 excerpt: L'association Musique et Danse se dote d'un site internet. Vous y trouverez toutes les actualités, les informations pratiques et la description de nos activités. 
 ---
 N'hésitez pas à partager le lien du site **www.amd-psm.fr** sur vos médias et réseau sociaux préférés !
