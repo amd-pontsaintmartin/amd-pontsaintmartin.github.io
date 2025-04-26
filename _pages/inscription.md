@@ -35,9 +35,11 @@ permalink: /inscription/
 ---
 
 Pour la rentrée **2025-2026**, les réinscriptions seront ouvertes en ligne à partir du lundi 16 juin 2025 et les nouvelles inscriptions à partir du lundi 23 juin 2025. 
-En complément, nous vous proposons des inscriptions en présentiel à la médiathèque 3ème lieu le mercredi 25 juin 2025 de 17h00 à 19h00.
+\
+\
+En complément, nous vous proposons des inscriptions en présentiel à la médiathèque 3ème lieu le mercredi 25 juin 2025 de 17h00 à 19h00 pour la musique et de 18h00 à 19h00 pour la danse.
 {: .text-justify}
-{: .notice--danger}
+{: .notice--primary}
 
 ## Plannings
 
