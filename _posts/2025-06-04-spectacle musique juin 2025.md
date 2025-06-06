@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/actualités/2025_06_01_spectacle_musique_juin_2025/affiche_spectacle_musique_juin_2025.webp
 excerpt: Nous vous attendons nombreux pour le spectacle de musique qui aura lieu le **dimanche 15/06 à 15h à l'Origami**.
 ---
-Les répétitions battent leur plein et c'est avant impatience que nous vous attendons pour le spectacle de musique qui aura lieu le **dimanche 15/06 à 15h à l'Origami** !
+Les répétitions battent leur plein et c'est avec impatience que nous vous attendons pour le spectacle de musique qui aura lieu le **dimanche 15/06 à 15h à l'Origami** !
 {: .text-justify}
 
 Ouverture du bar à 14h30 et ouverture des portes à 14h45.
