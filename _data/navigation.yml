@@ -5,8 +5,6 @@ main:
     url: /association/
   - title: "Musique"
     url: /musique/
-  - title: "Danse"
-    url: /danse/
   - title: "Inscription"
     url: /inscription/
 
