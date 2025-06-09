@@ -18,7 +18,6 @@ permalink: /musique/
 - Guitare classique
 - Guitare électrique
 - Guitare folk
-- Guitare basse
 - Banjo
 - Mandoline
 - Ukulélé 
