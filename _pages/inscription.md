@@ -34,12 +34,22 @@ permalink: /inscription/
 
 ---
 
-Pour la rentrée **2025-2026**, les réinscriptions seront ouvertes en ligne à partir du lundi 16 juin 2025 et les nouvelles inscriptions à partir du lundi 23 juin 2025. 
+**Pour la rentrée 2025-2026, les inscriptions sont ouvertes en ligne sur les liens ci-dessous**
 \
-\
-En complément, nous vous proposons des inscriptions en présentiel à la médiathèque 3ème lieu le mercredi 25 juin 2025 de 17h00 à 19h00 pour la musique et de 18h00 à 19h00 pour la danse.
+En complément, nous vous proposons des inscriptions en présentiel à la médiathèque 3ème lieu le mercredi 25 juin 2025 (17h00 - 19h00 pour la musique // 18h00 - 19h00 pour la danse ) et le samedi 06 septembre à l'Origami lors du forum des associations de 9h à 12h30. 
 {: .text-justify}
 {: .notice--primary}
+
+## Inscription 2025-2026
+
+[MUSIQUE - Martipontains](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscription-musique-2025-2026-martipontains){: .btn .btn--info}
+
+[MUSIQUE - Hors commune](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscription-musique-2025-2026-hors-commune){: .btn .btn--info}
+
+[DANSE - Enfants et ados - Modern Jazz et Hip-hop](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscriptions-danse-2025-2026-enfants-et-ados){: .btn .btn--info}
+
+[DANSE - Adultes - Modern Jazz et autres danses](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscriptions-danse-2025-2026-danse-adultes){: .btn .btn--info}
+
 
 ## Plannings
 
