@@ -61,7 +61,7 @@ Mot de l'intervenante, Claire Templé - Wicahpi Chants pour enfants
 
 [Facebook <i class="fa-brands fa-facebook"></i>](https://www.facebook.com/wicahpichants){: .btn}
 [Instagram <i class="fa-brands fa-instagram"></i>](https://www.instagram.com/wicahpi_music/){: .btn}
-[Site web <i class="fa-solid fa-house"></i>](https://wicahpi-chants-pour-enfants.jimdosite.com){: .btn}
+[Site web <i class="fa-solid fa-house"></i>](https://www.wicahpi-music.fr){: .btn}
 
 Possibilité d’accueillir des fratries dans le groupe 0-3 ans. Une adaptation pourra être faite pour les enfants plus grands, mais l’activité reste destinée au 0-3 ans. 
 {: .text-justify}
