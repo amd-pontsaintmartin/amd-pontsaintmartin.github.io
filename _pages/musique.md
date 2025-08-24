@@ -67,20 +67,12 @@ Possibilité d’accueillir des fratries dans le groupe 0-3 ans. Une adaptation 
 
 Horaires :
 - 0-3 ans (pré-scolaires) : mercredi de 16h15 à 17h, présence d'un parent (ou garde d'enfant) par famille
-- 3-5 ans (maternelles) : mercredi de 15h15 à 16h, présence d'un adulte responsable des enfants par atelier
+- 3-5 ans (maternelles) : mercredi de 15h15 à 16h
 {: .text-justify}
 
-Planning : 
-- 25 septembre 2024
-- 9 octobre 2024
-- 6 novembre 2024
-- 4 décembre 2024
-- 15 janvier 2025
-- 26 février 2025
-- 12 mars 2025
-- 23 avril 2025
-- 21 mai 2025
-- 18 juin 2025
+Planning 2025/2026 : 
+- 17/09 - 24/09 - 1/10 - 15/10 - 12/11 - 26/11 - 3/12 - 10/12 - 7/01 - 21/01 - 4/02 - 11/02 - 4/03 - 18/03 - 8/04 - 29/04 - 13/05 - 27/05 - 10/06 - 24/06
+{: .text-justify}
 
 ## Découverte instrumentale
 **A partir de 6 ans –** Cours de 30min / semaine / groupe 
