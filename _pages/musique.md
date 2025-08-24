@@ -21,6 +21,7 @@ permalink: /musique/
 - Banjo
 - Mandoline
 - Ukulélé 
+- Violon
 
 Il est nécessaire d'avoir son propre instrument (à acheter ou en prêt auprès des magasins de musique). 
 Les professeurs de musique se tiennent à votre disposition pour tout renseignement.
