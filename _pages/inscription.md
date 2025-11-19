@@ -58,7 +58,7 @@ En complément, nous vous proposons des inscriptions en présentiel à la média
 \
 [Calendrier Musique 2025-2026 - Découverte Instrumentale](/assets/documents/Calendrier Découverte Instrumentale 2025-2026.pdf){: .btn .btn--info}
 \
-[Planning Musique 2025-2026 - Salles](/assets/documents/Planning Salles Musique 2025-2026.pdf){: .btn .btn--info}
+[Planning Salles Musique 2025-2026](/assets/documents/Musique - Planning Salle 2025-2026.pdf){: .btn .btn--info}
 
 ## Règlements
 
