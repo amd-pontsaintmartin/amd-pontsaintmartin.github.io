@@ -1,5 +1,5 @@
 ---
-prenom: Kristina 
+prenom: Nikita 
 instrument: Violon
 
 image: "/assets/images/professeurs_musique/Nikita.jpg"
