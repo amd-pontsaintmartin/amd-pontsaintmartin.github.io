@@ -72,7 +72,7 @@ img {
   <h2 style="text-align: right;">{{ prof.prenom }} - {{ prof.instrument }}</h2> 
   <div class="row">
   <div class="column narrow">
-    <img src="{{ prof.image }}" alt="Instrument">
+    <img src="{{ prof.image }}" alt="">
   </div>
   <div class="column wide">
     {{ prof.content }}
@@ -86,7 +86,7 @@ img {
     {{ prof.content }}
   </div>
   <div class="column narrow">
-    <img src="{{ prof.image }}" alt="Instrument">
+    <img src="{{ prof.image }}" alt="">
   </div>
   </div>
   {% endif %}
