@@ -12,9 +12,8 @@ Gérée par une équipe de bénévoles dynamiques, investis et avec l’appui de
 - Participer à l’animation culturelle de la commune.
 {: .text-justify}
 
-## Nos professeurs
+## Nos professeurs de musique
 
-### Musique
 ![alt](/assets/images/professeurs_musique/Groupe.JPG)
 
 
@@ -67,36 +66,6 @@ img {
 
 {% assign gauche = true %}
 {% for prof in site.professeurs_musique %}
-  
-  {% if gauche == true %}
-  {% assign gauche = false %}
-  <h2 style="text-align: right;">{{ prof.prenom }} - {{ prof.instrument }}</h2> 
-  <div class="row">
-  <div class="column narrow">
-    <img src="{{ prof.image }}" alt="Instrument">
-  </div>
-  <div class="column wide">
-    {{ prof.content }}
-  </div>
-  </div>
-  {% else %}
-  {% assign gauche = true %}
-  <h2>{{ prof.prenom }} - {{ prof.instrument }}</h2> 
-  <div class="row">
-  <div class="column wide">
-    {{ prof.content }}
-  </div>
-  <div class="column narrow">
-    <img src="{{ prof.image }}" alt="Instrument">
-  </div>
-  </div>
-  {% endif %}
-{% endfor %}
-
-### Danse
-
-{% assign gauche = true %}
-{% for prof in site.professeurs_danse %}
   
   {% if gauche == true %}
   {% assign gauche = false %}
