@@ -28,7 +28,7 @@ L’entrée au spectacle est toujours gratuite, une boîte destinée à recueill
 {: .text-justify}
 {: .notice--primary}
 
-Les professeurs de danse ont le plaisir d’annoncer son **gala annuel qui se tiendra les 13 et 14 juin 2026**.
+Les professeurs de danse ont le plaisir d’annoncer le **gala annuel qui se tiendra les 13 et 14 juin 2026**.
 {: .text-justify}
 
 Cette année encore, l’association continue de grandir et accueille désormais 136 familles, preuve de son dynamisme et de l’engouement pour la danse sur notre commune. Exceptionnellement, le gala comptera trois représentations : une le samedi et deux le dimanche, afin de permettre au plus grand nombre d’y assister. Professeurs et danseurs mettent tout en œuvre pour offrir un spectacle de grande qualité. 
