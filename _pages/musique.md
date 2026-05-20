@@ -83,7 +83,7 @@ Planning 2025/2026 :
 Passerelle entre l’éveil et le cursus instrumental, les élèves pourront découvrir et pratiquer une partie des instruments enseignés à l’association de musique.
 {: .text-justify}
 
-Par trinôme ou binôme, les élèves seront sensibilisés à 5 instruments dans l’année (6 semaines pour chaque instrument, par les différents professeurs concernés) à savoir : **Flûte traversière et à bec, Saxophone, Trompette, Guitare classique, Batterie**
+Par trinôme ou binôme, les élèves seront sensibilisés à 5 instruments dans l’année et à la formation musicale, par les différents professeurs concernés) à savoir : **Flûte traversière et à bec, Saxophone, Trompette, Guitare classique, Batterie**
 {: .text-justify}
 
 Le planning variera selon l’instrument. Un calendrier précis vous sera donné en début d’année. 
@@ -112,8 +112,8 @@ La formation musicale est dispensée par le professeur d'instrument et viendra s
 
 ![alt](/assets/images/musique/formation-musicale.jpg)
 
-## Groupe 
-**Avoir les bases de FM et sans limite d’âge –** Cours de 1 heure ou de 30min / semaine / groupe 
+## Ensembles 
+**Avoir les bases de FM et sans limite d’âge –** Cours de 1 heure / semaine / groupe 
 {: .notice--primary}
 
 Apprentissage du jeu en ensemble en abordant différents morceaux tout au long de l'année :
@@ -125,22 +125,48 @@ Apprentissage du jeu en ensemble en abordant différents morceaux tout au long d
 Travail de révision et de renforcement sur le rythme
 {: .text-justify}
 
-> Groupe instrumental ado >> Mercredis de 15h à 16h \
-> Groupe instrumental adulte >> Lundis de 19h45 à 20h15 \
-> Groupe guitare classique ado >> Jeudis de 18h15 à 19h15 
+> Ensemble acoustique (guitare classique, violon, piano, flûte traversière)
+\
+> Ensemble rock (tous instruments hors guitare classique)
+\
+> Ensemble d'harmonie (tous instruments hors guitare classique)
+
 {: .text-justify}
 
-## Atelier de rythme
-**A partir de 7 ans et sans limite d'âge –** Cours de 1 heure / mois / groupe 
+## Atelier rythme signé
+**A partir de 7 ans et sans limite d'âge. Pas de pré-requis musicaux ou de connaissances antérieures. Le groupe peut être hétérogène (musiciens – non musiciens) –** Cours de 45 min / semaine / groupe 
 {: .notice--primary}
 
-Cet atelier n’est pas réservé aux batteurs et percussionnistes. Au contraire, il est ouvert à toutes les familles d’instruments.
+Originaire d'Argentine, le rythme signé («Ritmo con señas ») est un langage de signes permettant de diriger un ensemble musical. 
+Pensé initialement pour la performance d'un ensemble de percussions sur scène, il est également un outil pédagogique, social et culturel au potentiel énorme.
 {: .text-justify}
 
-Il permet aux élèves d'être plus autonome dans la compréhension et le ressenti du rythme. C’est l’un des éléments essentiels du développement de la pratique de tout musicien. Consolider ses bases en rythme, quel que soit son instrument permet d’avancer plus rapidement sur tous les autres domaines.
+**Modalités :**
+\
+Au moyen de jeux variés et à difficulté croissante autour du rythme, les élèves développent un sens de la pulsation, du jeu en groupe et de l'écoute dans un collectif.
+\
+Le groupe apprend par l'expérience et l'oralité tout au long de l'année les différents signes permettant de diriger le collectif, et à exécuter les idées musicales données. (Ex : son court, son long, s'arrêter, question réponse, etc). La création musicale est collective et instantanée.
+\
+La direction est partagée, les élèves volontaires s’entraînent à eux-même réemployer les signes pour diriger l'ensemble.
+Temps d'échanges autour des pratiques et restitutions de connaissances en collectif.
 {: .text-justify}
 
-Il est composé de beaucoup d'écoute et de pratique du rythme et également de quelques cours théoriques (mais pas trop !) pour mieux comprendre la lecture de note pour la percussion (figures de notes et figures de silence).
+**Objectifs :**
+- Développer et renforcer la perception de la pulsation et des carrures
+- Développer par transmission orale un langage musical rythmique
+- S'initier/travailler le jeu en groupe
+- S'initier à l'improvisation et à la direction d'ensemble
+- Travailler l'apprentissage en temps réel de répertoire
+- Travailler l'écoute et l'attention dans un contexte musical
+- S'initier au jeu des percussions
+- Développer la créativité et la composition en instantané
+{: .text-justify}
+
+**Compétences transversales :**
+- Travailler la concentration et l'écoute, la compréhension des consignes
+- Travailler la place au sein d'un groupe
+- Respect du collectif et de son cadre
+- Travailler le partage de la parole, de la direction
 {: .text-justify}
 
 ## Atelier de chant et technique vocale
