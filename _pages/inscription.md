@@ -5,26 +5,31 @@ permalink: /inscription/
 
 ---
 
-<!--**Pour la rentrée 2025-2026, les inscriptions sont ouvertes en ligne sur les liens ci-dessous**
+## Inscription 2026-2027
+
+<!--Pour la rentrée 2026-2027, les inscriptions sont closes.
 \
-\
-En complément, nous vous proposons des inscriptions en présentiel à la médiathèque 3ème lieu le mercredi 25 juin 2025 (17h00 - 19h00 pour la musique // 18h00 - 19h00 pour la danse ) et le samedi 06 septembre à l'Origami lors du forum des associations de 9h à 12h30. 
+**Rendez-vous en juin 2027 !**
 {: .text-justify}
 {: .notice--primary}-->
 
-## Inscription 2025-2026
-
-Pour la rentrée 2025-2026, les inscriptions sont closes.
+**Pour la rentrée 2026-2027, les inscriptions musique sont ouvertes en ligne sur les liens ci-dessous**
 \
-**Rendez-vous en juin 2026 !**
+\
+En complément, nous vous proposons des permanences d'inscription à la médiathèque 3ème lieu le samedi 27 juin de 10h30 à 12h et le samedi 05 septembre à l'Origami lors du forum des associations de 9h à 12h30. 
+\
+Si vous souhaitez régler tout ou partie de votre inscription par chèques vacances, nous vous remercions de réaliser une inscription en sélectionnant l’option « paiement libre ». Les règlements pourront ensuite être déposés lors des permanances ci-dessus.
+\
+\
+En cas de difficulté ou question concernant les inscriptions, n'hesitez pas à nous contacter [Contact musique](mailto:musiquepsm@gmail.com){: .btn .btn--info} 
 {: .text-justify}
 {: .notice--primary}
 
-<!--[MUSIQUE - Martipontains](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscription-musique-2025-2026-martipontains){: .btn .btn--info}
+[INSCRIPTION MUSIQUE 2026-2027 - Commune](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscription-musique-2026-2027){: .btn .btn--info}
 \
-[MUSIQUE - Hors commune](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscription-musique-2025-2026-hors-commune){: .btn .btn--info}
+[INSCRIPTION MUSIQUE 2026-2027 - Hors commune](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscription-musique-2026-2027-hors-commune){: .btn .btn--info}
 \
-[DANSE - Enfants et ados - Modern Jazz et Hip-hop](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscriptions-danse-2025-2026-enfants-et-ados){: .btn .btn--info}
+<!--[DANSE - Enfants et ados - Modern Jazz et Hip-hop](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscriptions-danse-2025-2026-enfants-et-ados){: .btn .btn--info}
 \
 [DANSE - Adultes - Modern Jazz et autres danses](https://www.helloasso.com/associations/association-musique-et-danse-de-pont-saint-martin/adhesions/inscriptions-danse-2025-2026-danse-adultes){: .btn .btn--info}-->
 
