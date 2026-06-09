@@ -137,36 +137,12 @@ Travail de révision et de renforcement sur le rythme
 **A partir de 7 ans et sans limite d'âge. Pas de pré-requis musicaux ou de connaissances antérieures. Le groupe peut être hétérogène (musiciens – non musiciens) –** Cours de 45 min / semaine / groupe 
 {: .notice--primary}
 
-Originaire d'Argentine, le rythme signé («Ritmo con señas ») est un langage de signes permettant de diriger un ensemble musical. 
-Pensé initialement pour la performance d'un ensemble de percussions sur scène, il est également un outil pédagogique, social et culturel au potentiel énorme.
-{: .text-justify}
-
-**Modalités :**
+Dans cet atelier, ouvert à toutes et à tous sans prérequis musical, le professeur dirige l'ensemble en temps réel au moyen d'un langage de signes.
 \
-Au moyen de jeux variés et à difficulté croissante autour du rythme, les élèves développent un sens de la pulsation, du jeu en groupe et de l'écoute dans un collectif.
 \
-Le groupe apprend par l'expérience et l'oralité tout au long de l'année les différents signes permettant de diriger le collectif, et à exécuter les idées musicales données. (Ex : son court, son long, s'arrêter, question réponse, etc). La création musicale est collective et instantanée.
+Autour des percussions (mais pas que !), les participants improvisent ensemble afin de créer une expérience musicale spontanée et collective.
 \
-La direction est partagée, les élèves volontaires s’entraînent à eux-même réemployer les signes pour diriger l'ensemble.
-Temps d'échanges autour des pratiques et restitutions de connaissances en collectif.
-{: .text-justify}
-
-**Objectifs :**
-- Développer et renforcer la perception de la pulsation et des carrures
-- Développer par transmission orale un langage musical rythmique
-- S'initier/travailler le jeu en groupe
-- S'initier à l'improvisation et à la direction d'ensemble
-- Travailler l'apprentissage en temps réel de répertoire
-- Travailler l'écoute et l'attention dans un contexte musical
-- S'initier au jeu des percussions
-- Développer la créativité et la composition en instantané
-{: .text-justify}
-
-**Compétences transversales :**
-- Travailler la concentration et l'écoute, la compréhension des consignes
-- Travailler la place au sein d'un groupe
-- Respect du collectif et de son cadre
-- Travailler le partage de la parole, de la direction
+Au fil des séances, constituées de jeux et d'exercices autour du rythme et du jeu en groupe, vous apprendrez à vous familiariser avec le langage de signes utilisé, l'improvisation, ainsi qu'avec diverses percussions.
 {: .text-justify}
 
 ## Atelier de chant et technique vocale
