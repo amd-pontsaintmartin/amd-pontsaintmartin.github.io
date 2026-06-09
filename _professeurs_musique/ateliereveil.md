@@ -2,18 +2,23 @@
 prenom: Claire
 instrument: Atelier d'éveil
 
-image: "/assets/images/professeurs_musique/Claire.jpg"
+image: "/assets/images/professeurs_musique/Claire.png"
 ---
 
-Je suis Claire Templé, j'ai 41 ans et suis maman de 3 jeunes enfants. 
+La musique fait partie de ma vie depuis l'enfance. J'ai commencé à explorer le piano vers l'âge de 4 ans, puis la guitare à l'adolescence, en apprenant essentiellement de manière autodidacte, à l'oreille et par plaisir de jouer.
 {: .text-justify}
 
-J'ai commencé la guitare à 14 ans et j'ai appris la musique seule, à l'oreille, avec un livre "diapason" des chansons de feu de camp! Les accords ont rapidement été assimilés et puis j'ai poursuivi avec la guitare électrique pour faire des solos sur du hard rock! Depuis, je joue plutôt "folk" sur mes guitares acoustiques, et j'ai surtout développé le chant autour de multiples activités : chant pour enfants et berceuses du monde, chants de l'Inde, chants amérindiens, projet solo acoustique, et musique verte et balades chantées.
+Depuis plusieurs années, je me consacre à l'éveil musical du jeune enfant. À travers le chant, les comptines, les jeux musicaux, le mouvement, la danse et l'exploration sonore, j'aime offrir aux enfants des expériences musicales où le plaisir de découvrir, d'expérimenter et de créer occupe une place centrale.
 {: .text-justify}
 
-Après une réorientation professionnelle en 2015, et pour donner du sens à ma vie, j'ai choisi d’œuvrer au service de la petite enfance.
-Formation Montessori 0-3 ans, 3-6 ans / CAP Petite Enfance / Formation Assistante Maternelle (cadre « montessorien », éveil à la Nature, éveil musical...) / Interventions musicales ponctuelles (Ecole publique, Relais Petite Enfance, LAEP, MAM...)
+Au fil des séances, les enfants sont invité·es à chanter, écouter, bouger, manipuler des instruments, développer leur imaginaire et partager des moments musicaux avec les autres. Mon univers est nourri de chansons traditionnelles et contemporaines, de berceuses du monde, d'une multitude d'instruments et bien sûr de ma fidèle guitare.
 {: .text-justify}
 
-En juillet 2020, j'ai créé mon entreprise WICAHPI Eveil Musical & Chants pour Enfants.
+Musicienne, maman de trois enfants et ancienne professionnelle de la petite enfance, je m'appuie également sur mes formations Montessori 0-3 ans et 3-6 ans, mon CAP Petite Enfance et mon expérience de terrain pour proposer des ateliers respectueux du développement et du rythme de chaque enfant.
+{: .text-justify}
+
+Début 2021, j'ai créé WICAHPI Musique & Petite Enfance, une activité à travers laquelle j'interviens aujourd'hui auprès des crèches, écoles maternelles, Relais Petite Enfance, Maisons d'Assistantes Maternelles et familles. J'anime également des formations professionnelles et des conférences autour de la musique et du jeune enfant.
+{: .text-justify}
+
+À la rentrée 2026, j'intégrerai le Diplôme Universitaire « La musique et le jeune enfant - La musique et l'enfant en situation de handicap » de l'Université de Tours. Cette formation, d'une durée d'un an, viendra enrichir une approche déjà présente dans ma pratique, qui accorde une place importante à l'exploration, à la créativité, à l'expression musicale et à l'inclusion de tous les enfants.
 {: .text-justify}
