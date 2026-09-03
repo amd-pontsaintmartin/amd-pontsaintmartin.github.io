@@ -71,10 +71,6 @@ Horaires :
 - 0-3 ans (pré-scolaires) : mercredi de 16h à 16h45, présence d'un parent (ou garde d'enfant) par famille
 {: .text-justify}
 
-Planning 2025/2026 : 
-- 17/09 - 24/09 - 1/10 - 15/10 - 12/11 - 26/11 - 3/12 - 10/12 - 7/01 - 21/01 - 4/02 - 11/02 - 4/03 - 18/03 - 8/04 - 29/04 - 13/05 - 27/05 - 10/06 - 24/06
-{: .text-justify}
-
 Planning 2026/2027 :
 - 16/09 - 23/09 - 7/10 - 14/10 - 04/11 - 25/11 - 9/12 - 16/12 - 6/01 - 20/01 - 3/02 - 17/02 - 10/03 - 17/03 - 24/03 - 31/03 - 12/05 - 26/05 - 09/06 - 23/06
 {: .text-justify} 
@@ -87,7 +83,7 @@ Planning 2026/2027 :
 Passerelle entre l’éveil et le cursus instrumental, les élèves pourront découvrir et pratiquer une partie des instruments enseignés à l’association de musique.
 {: .text-justify}
 
-Par trinôme ou binôme, les élèves seront sensibilisés à 5 instruments dans l’année et à la formation musicale, par les différents professeurs concernés) à savoir : **Flûte traversière et à bec, Saxophone, Trompette, Guitare classique, Batterie**
+Par trinôme ou binôme, les élèves seront sensibilisés à plusieurs instruments dans l’année et à la formation musicale, par les différents professeurs concernés) à savoir : **Flûte traversière, Saxophone, Trompette, Guitare classique, Batterie, Clarinette et Chant**
 {: .text-justify}
 
 Le planning variera selon l’instrument. Un calendrier précis vous sera donné en début d’année. 
