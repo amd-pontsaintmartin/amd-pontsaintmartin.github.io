@@ -14,6 +14,7 @@ permalink: /musique/
 - Trombone
 - Saxophone
 - Flûte traversière
+- Clarinette
 - Batterie
 - Guitare classique
 - Guitare électrique
