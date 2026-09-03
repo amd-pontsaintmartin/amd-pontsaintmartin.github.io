@@ -14,7 +14,6 @@ Gérée par une équipe de bénévoles dynamiques, investis et avec l’appui de
 
 ## Nos professeurs de musique
 
-![alt](/assets/images/professeurs_musique/Groupe.JPG)
 
 
 <style>

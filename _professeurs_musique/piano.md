@@ -1,6 +1,6 @@
 ---
 prenom: Simon
-instrument: Piano
+instrument: Piano et Formation Musicale
 image: "/assets/images/professeurs_musique/Simon.jpg"
 ---
 
