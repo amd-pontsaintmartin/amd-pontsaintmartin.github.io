@@ -36,11 +36,11 @@ En cas de difficulté ou question concernant les inscriptions, n'hesitez pas à 
 
 ## Plannings
 
-[Calendrier Musique 2025-2026](/assets/documents/Calendrier Musique 2025-2026.pdf){: .btn .btn--info}
+[Calendrier Musique 2026-2027](/assets/documents/Calendrier Musique 2026-2027.pdf){: .btn .btn--info}
 \
-[Calendrier Musique 2025-2026 - Découverte Instrumentale](/assets/documents/Calendrier Découverte Instrumentale 2025-2026.pdf){: .btn .btn--info}
+[Calendrier Musique 2026-2027 - Découverte Instrumentale](/assets/documents/Calendrier Découverte Instrumentale 2026-2027.pdf){: .btn .btn--info}
 \
-[Planning Salles Musique 2025-2026](/assets/documents/Musique - Planning Salle 2025-2026.pdf){: .btn .btn--info}
+[Calendrier Musique 2026-2027 - Éveil](/assets/documents/Calendrier éveil 2026-2027.pdf){: .btn .btn--info}
 
 ## Règlements
 
