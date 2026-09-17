@@ -11,7 +11,6 @@ permalink: /musique/
 
 - Piano
 - Trompette
-- Trombone
 - Saxophone
 - Flûte traversière
 - Clarinette
@@ -72,9 +71,6 @@ Horaires :
 - 0-3 ans (pré-scolaires) : mercredi de 16h à 16h45, présence d'un parent (ou garde d'enfant) par famille
 {: .text-justify}
 
-Planning 2026/2027 :
-- 16/09 - 23/09 - 7/10 - 14/10 - 04/11 - 25/11 - 9/12 - 16/12 - 6/01 - 20/01 - 3/02 - 17/02 - 10/03 - 17/03 - 24/03 - 31/03 - 12/05 - 26/05 - 09/06 - 23/06
-{: .text-justify} 
 
 ## Découverte instrumentale
 **A partir de 6 ans –** Cours de 30min / semaine / groupe 
